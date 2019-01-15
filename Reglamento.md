@@ -130,7 +130,8 @@ Las referencias ambiguas hacia los agentes llamados Lucas se resolverán emplean
 ## Vigencia y firma
 
 <p align="justify">
-Este reglamento tendrá efecto una vez publicado. Es responsabilidad de cada agente la lectura del mismo y estar al tanto de cada nueva regla. Las penalizaciones no poseen lugar al reclamo. La Administración no se responsabiliza por las salidas perdidas por los agentes durante sus eventuales períodos de penalización.
+Este reglamento tendrá efecto una vez publicado. Es responsabilidad de cada agente la lectura del mismo y estar al tanto de cada nueva regla. Las penalizaciones no poseen lugar al reclamo. La Administración no se responsabiliza por las salidas perdidas por los agentes durante sus eventuales períodos de penalización.<br>
+Pertenecer al Grupo Larrata GO 👮🔫🔪💣☭ implica que el agente en cuestión acepta y respetará de buena fe las reglas y consideraciones enunciadas en este documento.
 </p>
 <table>
   <tr>
