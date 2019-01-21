@@ -42,6 +42,9 @@ En la Ciudad Autónoma de Buenos Aires, a los 9 días del mes de enero del año 
 
 <ol>
   <li><p align="justify">
+    El agente "Gatica, Gabriel" podrá exceder los límites establecidos en el <b>Artículo 1</b> si el contenido a publicar fuese de suma importancia para los integrantes del grupo. Se considerará contenido de suma importancia a aquella información que sea indiscutiblemente relevante para la totalidad de los integrantes del grupo y el criterio final para determinar si un contenido es de suma importancia o no será el de La Administración. En el caso de que el agente "Gatica, Gabriel" solicite que se aplique esta excepción y La Administración rechace su solicitud, la penalización será el doble de lo dispuesto por el artículo en cuestión.
+  </li>
+  <li><p align="justify">
     El <b>Artículo 3</b> no se aplica si el agente en cuestión se encuentra de vacaciones; un agente se considera  "de vacaciones" únicamente si se encuentra fuera de su propiedad por un período de al menos 2 días y además notificó en el grupo el período indicando la fecha de inicio y la fecha de finalización del mismo. La forma de notificar los períodos de vacaciones es antecediendo el símbolo numeral a la palabra “Vacaciones” (#Vacaciones) a modo de facilitar la búsqueda del mensaje en caso de ser necesario recurrir al mismo. (Ej. "#Vacaciones 01/01/19 -15/01/19").
   </li>
   <li><p align="justify">
