@@ -16,7 +16,7 @@ En la Ciudad Autónoma de Buenos Aires, a los 9 días del mes de enero del año 
 
 <ul>
   <li><p align="justify">  
-    <b>Artículo 1°</b>.- El agente “Gatica, Gabriel”  - DNI 39.771.115 no tendrá permitido subir más de 3 (tres) videos por dia.<br> <b>Penalización:</b> 2 (dos) días por cada video que haya excedido la cuota diaria susodicha.
+    <b>Artículo 1°</b>.- El agente “Gatica, Gabriel”  - DNI 39.771.115  tendrá permitido subir un maximo de 5 contenidos multimedia (fotos/videos), esperando un lapso de 24 horas tras alcanzar su limite permitido, de los cuales 3 (tres) de ellos, como maximo, pueden ser videos.<br> <b>Penalización:</b> 2 (dos) días por cada contenido multimedia que haya excedido la cuota diaria susodicha.
   </li>
   <li><p align="justify">
     <b>Artículo 2°</b>.- Está terminantemente prohibido publicar contenido que contenga o haga referencia a “Chávez, Jeremías” ya sea parcial o totalmente.<br>
