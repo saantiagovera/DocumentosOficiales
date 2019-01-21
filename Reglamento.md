@@ -36,6 +36,9 @@ En la Ciudad Autónoma de Buenos Aires, a los 9 días del mes de enero del año 
   <li><p align="justify">  
     <b>Artículo 6°</b>.- Cualquier ambigüedad presentada al debatir el incumplimiento de algún artículo y/o excepción será resuelta por La Administración.
   </li>
+  <li><p align="justify">  
+    <b>Artículo 8°</b>.- El Anexo 4° (Faltas de Ortografía) tiene total validez y vigencia. Las penalizaciones que en él se definen serán tomadas en cuenta de la misma forma que las enumeradas en estos artículos.
+  </li>
 </ul>
 
 ## Excepciones a las reglas
@@ -129,6 +132,48 @@ A continuación se detallan los sobrenombres (apodos, alias) oficiales que La Ad
 <p align="justify">
 Las referencias ambiguas hacia los agentes llamados Matías se resolverán empleando los sobrenombres oficiales de los agentes “Ferrero Vilas, Matías Gabriel” y “Notario, Matías Nicolás”.
 Las referencias ambiguas hacia los agentes llamados Lucas se resolverán empleando los sobrenombres oficiales del agente “Simunovich, Lucas Martín”
+
+## ANEXO 4° - Faltas de ortografía
+
+<p align="justify">
+Se publica el presente anexo con el fin de minimizar la cantidad de faltas de ortografía en los mensajes enviados por los agentes.<br>
+Se llevará un conteo de las faltas graves de ortografía cometidas por los agentes y se penalizará a los agentes que hayan acumulado 4 (cuatro) faltas.<br>
+  
+#### Discriminación de faltas
+
+No se consideran faltas graves:
+
+<ul>
+  <li>Omisión de tildes.
+  <li>Omisión de mayúsculas.
+  <li>Abreviaturas. Ejemplos: "q" para "que", "xq" para "porque", "lpm" para "la puta madre".
+</ul>
+
+Se consideran faltas graves:
+
+<ul>
+  <li>Utilización de letras equivocadas. Ejemplos: "concideran", "grabes".
+  <li>Redacciones erróneas. Ejemplos: "va a ser falta carbón" en lugar de "va a hacer falta carbón", "ahí descuento en BK" en lugar de "hay descuento en BK"
+  <li>Textos que por su carencia de signos de puntuación sean confusos o de difícil comprensión.
+</ul>
+
+La decisión final siempre estará a cargo de La Administración.
+
+#### Conteo de faltas
+
+<p align="justify">
+Se contará con un mensaje titulado con el hashtag #FaltasDeOrtografía en el cual se contarán las faltas acumuladas por los agentes. El mismo sólo podrá ser actualizado por los miembros de La Administración o sus colaboradores designados en este documento. La sintaxis del mensaje respetará la utilizada en el siguiente ejemplo:
+
+#FaltasDeOrtografía<br>
+Gabi: 2/4<br>
+Nico: 3/4<br>
+Lucas: 1/4<br>
+
+El contador se reiniciará al cambiar el año en curso.
+
+#### Penalizaciones
+
+Al llegar a las 4 faltas se penalizará al agente en cuestión con 1 (uno) día de expulsión. Si un agente resulta penalizado 3 veces por faltas ortográficas, al día de expulsión correspondiente se le agregarán 3 (tres) días por reiteración.
 
 ## Vigencia y firma
 
