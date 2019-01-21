@@ -36,6 +36,10 @@ En la Ciudad Autónoma de Buenos Aires, a los 9 días del mes de enero del año 
   <li><p align="justify">  
     <b>Artículo 6°</b>.- Cualquier ambigüedad presentada al debatir el incumplimiento de algún artículo y/o excepción será resuelta por La Administración.
   </li>
+  <li><p align="justify">  
+    <b>Artículo 7°</b>.- Es un derecho del organizador de una salida enviar un mensaje etiquetando a los agentes que hayan ignorado (en la jerga popular "clavado visto") el mensaje en que se consulta sobre el interés o no en participar de la misma. El organizador no tiene permitido etiquetar en este mensaje a ningún agente que haya reportado previamente vacaciones que lo absuelvan de la salida en cuestión.<br>
+    <b>Penalización:</b> 2 (dos) días por cada agente etiquetado indebidamente.
+  </li>
 </ul>
 
 ## Excepciones a las reglas
