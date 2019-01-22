@@ -153,7 +153,7 @@ No se consideran faltas graves:
 <ul>
   <li>Omisión de tildes.
   <li>Omisión de mayúsculas.
-  <li>Abreviaturas. Ejemplos: "q" para "que", "xq" para "porque", "lpm" para "la puta madre".
+  <li>Abreviaturas. Ejemplos: "q" para "que", "lpm" para "la puta madre".
 </ul>
 
 Se consideran faltas graves:
@@ -212,3 +212,6 @@ Pertenecer al Grupo Larrata GO 👮🔫🔪💣☭ implica que el agente en cues
     <td>Rabahia, Sergio Mathias
   </tr>
 </table>
+
+<p align="center">
+  Administración M&M<br><b>Poniendo orden</b>
