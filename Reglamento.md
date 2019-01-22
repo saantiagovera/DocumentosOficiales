@@ -5,18 +5,18 @@
 
   <b>
   Reglamento y Normas de Convivencia<br>
-  <br>Acta N°1/19
+  <br>Acta N°3/19
   </b>
 </p>
 <br>
 <p align="justify">
-En la Ciudad Autónoma de Buenos Aires, a los 9 días del mes de enero del año 2019, en el marco del comienzo del año, Administración M&M -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento, agregando cambios y aclaraciones a las reglas existentes y sus correspondientes penalizaciones en caso de incumpliento, así como también nuevas reglas.
+En la Ciudad Autónoma de Buenos Aires, a los 21 días del mes de enero del año 2019, en el marco del comienzo del año, Administración M&M -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento, agregando cambios y aclaraciones a las reglas existentes y sus correspondientes penalizaciones en caso de incumpliento, así como también nuevas reglas.
 
 ## Reglas
 
 <ul>
   <li><p align="justify">  
-    <b>Artículo 1°</b>.- El agente “Gatica, Gabriel”  - DNI 39.771.115  tendrá permitido subir un máximo de 5 contenidos multimedia (fotos/videos) cada 24 horas, de los cuales 3 (tres), como máximo, podrán ser videos.<br> <b>Penalización:</b> 2 (dos) días por cada contenido multimedia que haya excedido el límite susodicho.
+    <b>Artículo 1°</b>.- El agente “Gatica, Gabriel”  - DNI 39.771.115  tendrá permitido subir un máximo de 5 contenidos multimedia (fotos y/o videos) cada 24 horas, de los cuales 3 (tres), como máximo, podrán ser videos.<br> <b>Penalización:</b> 2 (dos) días por cada contenido multimedia que haya excedido el límite susodicho.
   </li>
   <li><p align="justify">
     <b>Artículo 2°</b>.- Está terminantemente prohibido publicar contenido que contenga o haga referencia a “Chávez, Jeremías” ya sea parcial o totalmente.<br>
@@ -35,6 +35,13 @@ En la Ciudad Autónoma de Buenos Aires, a los 9 días del mes de enero del año 
   </li>
   <li><p align="justify">  
     <b>Artículo 6°</b>.- Cualquier ambigüedad presentada al debatir el incumplimiento de algún artículo y/o excepción será resuelta por La Administración.
+  </li>
+  <li><p align="justify">  
+    <b>Artículo 7°</b>.- Es un derecho del organizador de una salida enviar un mensaje etiquetando a los agentes que hayan ignorado (en la jerga popular "clavado visto") el mensaje en que se consulta sobre el interés o no en participar de la misma. El organizador no tiene permitido etiquetar en este mensaje a ningún agente que haya reportado previamente vacaciones que lo absuelvan de la salida en cuestión.<br>
+    <b>Penalización:</b> 2 (dos) días por cada agente etiquetado indebidamente.
+  </li>
+    <li><p align="justify">  
+    <b>Artículo 8°</b>.- El Anexo 4° (Faltas de Ortografía) tiene total validez y vigencia. Las penalizaciones que en él se definen serán tomadas en cuenta de la misma forma que las enumeradas en estos artículos.
   </li>
   <li><p align="justify">  
     <b>Artículo 9°</b>.- La Administración tiene la potestad de actuar de oficio (penalizar a un agente sin que éste haya incumplido una de las reglas enunciadas en este documento) siempre que lo considere necesario. Cada vez que La Administración decida actuar de oficio, evaluará si la situación en cuestión amerita la creación de una nueva regla, con el fin de minimizar la cantidad de ocasiones en que este artículo deba aplicarse.
@@ -126,6 +133,53 @@ A continuación se detallan los sobrenombres (apodos, alias) oficiales que La Ad
   <td>“Cachu”</td>
 </tr>
 </table>
+
+## ANEXO 4° - Faltas de ortografía
+
+<p align="justify">
+Se publica el presente anexo con el fin de minimizar la cantidad de faltas de ortografía en los mensajes enviados por los agentes.<br>
+Se llevará un conteo de las faltas graves de ortografía cometidas por los agentes y se penalizará a los agentes que hayan acumulado 4 (cuatro) faltas.<br>
+
+#### Discriminación de faltas
+
+No se consideran faltas graves:
+
+<ul>
+  <li>Omisión de tildes.
+  <li>Omisión de mayúsculas.
+  <li>Abreviaturas. Ejemplos: "q" para "que", "xq" para "porque", "lpm" para "la puta madre".
+</ul>
+
+Se consideran faltas graves:
+
+<ul>
+  <li>Utilización de letras equivocadas. Ejemplos: "concideran", "grabes".
+  <li>Redacciones erróneas. Ejemplos: "va a ser falta carbón" en lugar de "va a hacer falta carbón", "ahí descuento en BK" en lugar de "hay descuento en BK"
+  <li>Textos que por su carencia de signos de puntuación sean confusos o de difícil comprensión.
+</ul>
+
+La decisión final siempre estará a cargo de La Administración.
+
+#### Conteo de faltas
+
+<p align="justify">
+Se contará con un mensaje titulado con el hashtag #FaltasDeOrtografía en el cual se contarán las faltas acumuladas por los agentes. El mismo sólo podrá ser actualizado por los miembros de La Administración o sus colaboradores designados en este documento. La sintaxis del mensaje respetará la utilizada en el siguiente ejemplo:
+
+#FaltasDeOrtografía<br>
+Gabi: 2/4<br>
+Nico: 3/4<br>
+Lucas: 1/4<br>
+
+El contador se reiniciará al cambiar el año en curso.
+
+#### Penalizaciones
+
+Al llegar a las 4 faltas se penalizará al agente en cuestión con 1 (uno) día de expulsión. Si un agente resulta penalizado 3 veces por faltas ortográficas, al día de expulsión correspondiente se le agregarán 3 (tres) días por reiteración.
+
+## ANEXO 5° - Solicitud de Revision de reglas y/o Incorporacion de nuevas
+
+<p align="justify">
+Cualquier Agte. perteneciente a Larrata GO 👮🔫🔪💣☭ posee la plena faculdad de solicitad modificaciones a las presentes reglas o reclamar la creacion de una regla o salvedad de un caso especial. Dichas solicitudes se podran efectuar a travez de los Issues del repositoriio en donde se encuentra dicho documento. LINK: https://github.com/matiasalbacetti/LarrataFiles/issues
 
 #### Salvación de ambigüedades
 
