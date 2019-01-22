@@ -179,7 +179,7 @@ Al llegar a las 4 faltas se penalizará al agente en cuestión con 1 (uno) día 
 ## ANEXO 5° - Solicitud de Revision de reglas y/o Incorporacion de nuevas
 
 <p align="justify">
-Cualquier Agte. perteneciente a Larrata GO 👮🔫🔪💣☭ posee la plena faculdad de solicitad modificaciones a las presentes reglas o reclamar la creacion de una regla o salvedad de un caso especial. Dichas solicitudes se podran efectuar a travez de los Issues del repositoriio en donde se encuentra dicho documento. LINK: https://github.com/matiasalbacetti/LarrataFiles/issues
+Cualquier agente perteneciente a Larrata GO 👮🔫🔪💣☭ posee la plena faculdad de solicitad modificaciones a las presentes reglas o reclamar la creacion de una regla o salvedad de un caso especial. Dichas solicitudes se podran efectuar a traves de los Issues del repositorio en donde se encuentra dicho documento. LINK: https://github.com/matiasalbacetti/LarrataFiles/issues
 
 #### Salvación de ambigüedades
 
