@@ -52,7 +52,7 @@ En la Ciudad Autónoma de Buenos Aires, a los 21 días del mes de enero del año
 
 <ol>
   <li><p align="justify">
-    El agente "Gatica, Gabriel" podrá exceder los límites establecidos en el <b>Artículo 1</b> si el contenido a publicar fuese de suma importancia para los integrantes del grupo. Se considerará contenido de suma importancia a aquella información que sea indiscutiblemente relevante para la totalidad de los integrantes del grupo y el criterio final para determinar si un contenido es de suma importancia o no será el de La Administración. En el caso de que el agente "Gatica, Gabriel" solicite que se aplique esta excepción y La Administración rechace su solicitud, la penalización será el doble de lo dispuesto por el artículo en cuestión.
+    El agente "Gatica, Gabriel" podrá exceder los límites establecidos en el <b>Artículo 1</b> si el contenido a publicar fuese de suma importancia para los integrantes del grupo. Se considerará contenido de suma importancia a aquella información que sea indiscutiblemente relevante para la totalidad de los integrantes del grupo y el criterio final para determinar si un contenido es de suma importancia o no será el de La Administración. En el caso de que el agente "Gatica, Gabriel" solicite post facto (luego de haber compartido el contenido multimedia) que se aplique esta excepción  y La Administración rechace su solicitud, la penalización será el doble de lo dispuesto por el artículo en cuestión.
   </li>
   <li><p align="justify">
     El <b>Artículo 3</b> no se aplica si el agente en cuestión se encuentra de vacaciones; un agente se considera  "de vacaciones" únicamente si se encuentra fuera de su propiedad por un período de al menos 2 días y además notificó en el grupo el período indicando la fecha de inicio y la fecha de finalización del mismo. La forma de notificar los períodos de vacaciones es antecediendo el símbolo numeral a la palabra “Vacaciones” (#Vacaciones) a modo de facilitar la búsqueda del mensaje en caso de ser necesario recurrir al mismo. (Ej. "#Vacaciones 01/01/19 -15/01/19").
@@ -134,6 +134,12 @@ A continuación se detallan los sobrenombres (apodos, alias) oficiales que La Ad
 </tr>
 </table>
 
+#### Salvación de ambigüedades
+
+<p align="justify">
+Las referencias ambiguas hacia los agentes llamados Matías se resolverán empleando los sobrenombres oficiales de los agentes “Ferrero Vilas, Matías Gabriel” y “Notario, Matías Nicolás”.
+Las referencias ambiguas hacia los agentes llamados Lucas se resolverán empleando los sobrenombres oficiales del agente “Simunovich, Lucas Martín”
+
 ## ANEXO 4° - Faltas de ortografía
 
 <p align="justify">
@@ -176,16 +182,19 @@ El contador se reiniciará al cambiar el año en curso.
 
 Al llegar a las 4 faltas se penalizará al agente en cuestión con 1 (uno) día de expulsión. Si un agente resulta penalizado 3 veces por faltas ortográficas, al día de expulsión correspondiente se le agregarán 3 (tres) días por reiteración.
 
-## ANEXO 5° - Solicitud de Revision de reglas y/o Incorporacion de nuevas
+## ANEXO 5° - Solicitud de Revisión/Creación de Reglas
 
 <p align="justify">
-Cualquier agente perteneciente a Larrata GO 👮🔫🔪💣☭ posee la plena faculdad de solicitad modificaciones a las presentes reglas o reclamar la creacion de una regla o salvedad de un caso especial. Dichas solicitudes se podran efectuar a traves de los Issues del repositorio en donde se encuentra dicho documento. LINK: https://github.com/matiasalbacetti/LarrataFiles/issues
+Cualquier agente perteneciente a Larrata GO 👮🔫🔪💣☭ posee plena faculdad de solicitar modificaciones a las reglas enunciadas en este documento o sugerir la creación de reglas/excepciones nuevas. Dichas solicitudes se podran efectuar a través de los issues del presente repositorio. LINK: https://github.com/matiasalbacetti/LarrataFiles/issues <br>
+La Administración evaluará apropiadamente cada solicitud y responderá a las mismas en el mismo issue.
+  
+#### Consideraciones
 
-#### Salvación de ambigüedades
-
-<p align="justify">
-Las referencias ambiguas hacia los agentes llamados Matías se resolverán empleando los sobrenombres oficiales de los agentes “Ferrero Vilas, Matías Gabriel” y “Notario, Matías Nicolás”.
-Las referencias ambiguas hacia los agentes llamados Lucas se resolverán empleando los sobrenombres oficiales del agente “Simunovich, Lucas Martín”
+<ul>
+  <li><p align="justify">Un agente podrá cargar, como máximo, 3 (tres) solicitudes por mes. Se permitirán solicitudes adicionales solamente si al menos dos de las tres anteriores fueron aprobadas por La Administración.
+  <li><p align="justify">La Administración actuará de oficio si considera que un agente carga solicitudes inapropiadas o molestas (spam).
+  <li><p align="justify">Una solicitud que fue rechazada por La Administración, sólo podrá ser reconsiderada por iniciativa propia de La Administración, quedando de esta forma prohibida la carga de solicitudes repetidas por parte de los agentes.
+</ul>
 
 ## Vigencia y firma
 
