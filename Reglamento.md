@@ -191,7 +191,7 @@ La Administración evaluará apropiadamente cada solicitud y responderá a las m
 #### Consideraciones
 
 <ul>
-  <li><p align="justify">Un agente podrá cargar, como máximo, 3 (tres) solicitudes por mes. Se permitirán solicitudes adicionales solamente si al menos dos de las tres anteriores fueron aprobadas por La Administración.
+  <li><p align="justify">Un agente podrá cargar, como máximo, 3 (tres) solicitudes por mes. Se permitirán solicitudes adicionales solamente si al menos 2 (dos) de las tres anteriores fueron aprobadas por La Administración.
   <li><p align="justify">La Administración actuará de oficio si considera que un agente carga solicitudes inapropiadas o molestas (spam).
   <li><p align="justify">Una solicitud que fue rechazada por La Administración, sólo podrá ser reconsiderada por iniciativa propia de La Administración, quedando de esta forma prohibida la carga de solicitudes repetidas por parte de los agentes.
 </ul>
