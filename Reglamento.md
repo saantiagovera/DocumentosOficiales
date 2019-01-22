@@ -36,6 +36,9 @@ En la Ciudad Autónoma de Buenos Aires, a los 9 días del mes de enero del año 
   <li><p align="justify">  
     <b>Artículo 6°</b>.- Cualquier ambigüedad presentada al debatir el incumplimiento de algún artículo y/o excepción será resuelta por La Administración.
   </li>
+  <li><p align="justify">  
+    <b>Artículo 9°</b>.- La Administración tiene la potestad de actuar de oficio (penalizar a un agente sin que éste haya incumplido una de las reglas enunciadas en este documento) siempre que lo considere necesario. Cada vez que La Administración decida actuar de oficio, evaluará si la situación en cuestión amerita la creación de una nueva regla, con el fin de minimizar la cantidad de ocasiones en que este artículo deba aplicarse.
+  </li>
 </ul>
 
 ## Excepciones a las reglas
