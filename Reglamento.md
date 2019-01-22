@@ -180,7 +180,7 @@ El contador se reiniciará al cambiar el año en curso.
 
 #### Penalizaciones
 
-Al llegar a las 4 faltas se penalizará al agente en cuestión con 1 (uno) día de expulsión. Si un agente resulta penalizado 3 veces por faltas ortográficas, al día de expulsión correspondiente se le agregarán 3 (tres) días por reiteración.
+Al llegar a las 4 (cuatro) faltas se penalizará al agente en cuestión con 1 (uno) día de expulsión. Si un agente resulta penalizado 3 (tres) veces por faltas ortográficas, al día de expulsión correspondiente se le agregarán 3 (tres) días por reiteración.
 
 ## ANEXO 5° - Solicitud de Revisión/Creación de Reglas
 
