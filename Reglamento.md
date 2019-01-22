@@ -185,7 +185,7 @@ Al llegar a las 4 (cuatro) faltas se penalizará al agente en cuestión con 1 (u
 ## ANEXO 5° - Solicitud de Revisión/Creación de Reglas
 
 <p align="justify">
-Cualquier agente perteneciente a Larrata GO 👮🔫🔪💣☭ posee plena faculdad de solicitar modificaciones a las reglas enunciadas en este documento o sugerir la creación de reglas/excepciones nuevas. Dichas solicitudes se podran efectuar a través de los issues del presente repositorio. LINK: https://github.com/matiasalbacetti/LarrataFiles/issues <br>
+Cualquier agente perteneciente a Larrata GO 👮🔫🔪💣☭ posee plena facultdad de solicitar modificaciones a las reglas enunciadas en este documento o sugerir la creación de reglas/excepciones nuevas. Dichas solicitudes se podran efectuar a través de los issues del presente repositorio. LINK: https://github.com/matiasalbacetti/LarrataFiles/issues <br>
 La Administración evaluará apropiadamente cada solicitud y responderá a las mismas en el mismo issue.
   
 #### Consideraciones
