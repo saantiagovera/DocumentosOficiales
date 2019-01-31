@@ -46,6 +46,10 @@ En la Ciudad Autónoma de Buenos Aires, a los 21 días del mes de enero del año
   <li><p align="justify">  
     <b>Artículo 9°</b>.- La Administración tiene la potestad de actuar de oficio (penalizar a un agente sin que éste haya incumplido una de las reglas enunciadas en este documento) siempre que lo considere necesario. Cada vez que La Administración decida actuar de oficio, evaluará si la situación en cuestión amerita la creación de una nueva regla, con el fin de minimizar la cantidad de ocasiones en que este artículo deba aplicarse.
   </li>
+  </li>
+    <li><p align="justify">  
+    <b>Artículo 10°</b>.- El Anexo 6° (Control de Presentismo) tiene total validez y vigencia. Las penalizaciones que en él se definen serán tomadas en cuenta de la misma forma que las enumeradas en estos artículos.
+  </li>
 </ul>
 
 ## Excepciones a las reglas
@@ -194,6 +198,71 @@ La Administración evaluará apropiadamente cada solicitud y responderá a las m
   <li><p align="justify">Un agente podrá cargar, como máximo, 3 (tres) solicitudes por mes. Se permitirán solicitudes adicionales solamente si al menos 2 (dos) de las tres anteriores fueron aprobadas por La Administración.
   <li><p align="justify">La Administración actuará de oficio si considera que un agente carga solicitudes inapropiadas o molestas (spam).
   <li><p align="justify">Una solicitud que fue rechazada por La Administración, sólo podrá ser reconsiderada por iniciativa propia de La Administración, quedando de esta forma prohibida la carga de solicitudes repetidas por parte de los agentes.
+</ul>
+
+## ANEXO 6° - Control de Presentismo  
+
+<p align="justify">
+Con el fin de promover la asistencia de los agentes a las salidas, La Administración publica el siguiente anexo.<br>
+Se implementará un sistema de puntos que tiene como objetivo penalizar a aquellos agentes cuya cantidad de asistencias a salidas sea muy baja durante un período de tiempo.
+  
+#### Sistema de puntos
+
+<p align="justify">
+Cada agente contará con 15 (quince) puntos desde la publicación de este anexo. Mediante este sistema los agentes perderán puntos cuando no asistan a salidas y sumarán puntos cuando sí lo hagan. Aquel agente que llegue a 0 (cero) puntos será penalizado con 3 (tres) días de expulsión. Los agentes no podrán acumular más de 15 (quince) puntos.
+
+#### Tipos de salidas
+
+<ul>
+  <li><p align="justify"><b>Salidas importantes:</b> Cena de Fin de Año y Reunión del Día del Amigo.</li>
+  <li><p align="justify"><b>Salidas intermedias:</b> cumpleaños y cualquier salida que cuente con la presencia de 8 (ocho) o más agentes.</li>
+  <li><p align="justify"><b>Salidas comunes:</b> cualquier salida que cuente con la presencia de entre 3 (tres) y 7 (siete) agentes. </li>
+  <li><p align="justify"><b>Viajes:</b> se considera viaje a una salida cuyos asistentes permanecen más de 24 (veinticuatro) horas alejados (más de 40 (cuarenta) kilómetros) de la Ciudad de Buenos Aires.</li>
+</ul>
+
+Sólo se tienen en cuenta salidas que hayan sido propuestas en el grupo y que se hayan concretado.
+
+#### Suma/Resta de puntos
+
+<ul>
+  <li><p align="justify"><b>Salidas importantes:</b> 
+    <ul>
+      <li>Ausencia: el agente perderá 10 (diez) puntos.</li>
+      <li>Asistencia: el agente sumará 2 (dos) puntos.</li>
+    </ul>
+  </li>
+  <li><p align="justify"><b>Salidas intermedias:</b>
+    <ul>
+      <li>Ausencia: el agente perderá 4 (cuatro) puntos.</li>
+      <li>Asistencia: el agente sumará 4 (cuatro) puntos.</li>
+    </ul>
+  </li>
+  <li><p align="justify"><b>Salidas comunes:</b>
+    <ul>
+      <li>Ausencia: el agente perderá 3 (tres) puntos.</li>
+      <li>Asistencia: el agente sumará 7 (siete) puntos.</li>
+    </ul>
+  </li>
+  <li><p align="justify"><b>Viajes:</b>
+    <ul>
+      <li>Ausencia: el agente perderá 1 (uno) punto.</li>
+      <li>Asistencia: el agente reiniciará su contador llegando a 15 (quince) puntos.</li>
+    </ul>
+  </li>
+</ul>
+
+#### Consideraciones
+
+<ul>
+  <li><p align="justify">Los agentes no perderán puntos cuando sus ausencias a salidas se deban a:
+    <ul>
+      <li>Vacaciones. Debe haber sido expresado claramente que es éste el motivo de la ausencia.</li>
+      <li>Problemas familiares.</li>
+      <li>Problemas de salud.</li>
+    </ul>
+    La Administración evaluará cada situación apropiadamente.
+  <li><p align="justify">El registro de puntos se llevará a cabo en un mensaje destinado exclusivamente a tal fin en el grupo, antecedido por la expresión &Presentismo. La actualización se realizará luego de la ejecución de cada salida.</li>
+  <li><p align="justify">Cuando un agente sea reincorporado luego de una penalización por llegar 0 (cero) puntos, se le otorgarán 7 (siete) puntos.</li>
 </ul>
 
 ## Vigencia y firma
