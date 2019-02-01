@@ -5,12 +5,12 @@
 
   <b>
   Reglamento y Normas de Convivencia<br>
-  <br>Acta N°3/19
+  <br>Acta N°4/19
   </b>
 </p>
 <br>
 <p align="justify">
-En la Ciudad Autónoma de Buenos Aires, a los 21 días del mes de enero del año 2019, en el marco del comienzo del año, Administración M&M -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento, agregando cambios y aclaraciones a las reglas existentes y sus correspondientes penalizaciones en caso de incumpliento, así como también nuevas reglas.
+En la Ciudad Autónoma de Buenos Aires, a los 31 días del mes de enero del año 2019, en el marco del comienzo del año, Administración M&M -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento, agregando cambios y aclaraciones a las reglas existentes y sus correspondientes penalizaciones en caso de incumpliento, así como también nuevas reglas.
 
 ## Reglas
 
