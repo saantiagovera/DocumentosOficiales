@@ -245,7 +245,7 @@ Sólo se tienen en cuenta salidas que hayan sido propuestas en el grupo y que se
   </li>
   <li><p align="justify"><b>Viajes:</b>
     <ul>
-      <li>Ausencia: el agente perderá 1 (uno) punto.</li>
+      <li>Ausencia: el agente no perdera puntos.</li>
       <li>Asistencia: el agente reiniciará su contador llegando a 15 (quince) puntos.</li>
     </ul>
   </li>
