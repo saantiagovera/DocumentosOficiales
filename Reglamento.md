@@ -50,6 +50,10 @@ En la Ciudad Autónoma de Buenos Aires, a los 21 días del mes de enero del año
     <li><p align="justify">  
     <b>Artículo 10°</b>.- El Anexo 6° (Control de Presentismo) tiene total validez y vigencia. Las penalizaciones que en él se definen serán tomadas en cuenta de la misma forma que las enumeradas en estos artículos.
   </li>
+  <li><p align="justify">  
+    <b>Artículo 11°</b>.- Queda terminantemente prohibido el uso de "lenguaje inclusivo" ya sea en sus variantes utilizando la letra "E" o la letra "X". Se exceptúan los casos catalogados como broma. La Administración evaluará cada caso apropiadamente y lo catalogará como broma o como uso adrede.<br>
+  <b>Penalización:</b> 2 (dos) días por palabra escrita en lenguaje inclusivo.
+  </li>
 </ul>
 
 ## Excepciones a las reglas
