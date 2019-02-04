@@ -220,7 +220,7 @@ Cada agente contará con 15 (quince) puntos desde la publicación de este anexo.
 <ul>
   <li><p align="justify"><b>Salidas importantes:</b> Cena de Fin de Año y Reunión del Día del Amigo.</li>
   <li><p align="justify"><b>Salidas intermedias:</b> cumpleaños y cualquier salida que cuente con la presencia de 8 (ocho) o más agentes.</li>
-  <li><p align="justify"><b>Salidas comunes:</b> cualquier salida que cuente con la presencia de entre 3 (tres) y 7 (siete) agentes. </li>
+  <li><p align="justify"><b>Salidas comunes:</b> cualquier salida que cuente con la presencia de entre 4 (cuatro) y 7 (siete) agentes. </li>
   <li><p align="justify"><b>Viajes:</b> se considera viaje a una salida cuyos asistentes permanecen más de 24 (veinticuatro) horas alejados (más de 40 (cuarenta) kilómetros) de la Ciudad de Buenos Aires.</li>
 </ul>
 
