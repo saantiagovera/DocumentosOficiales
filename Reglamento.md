@@ -54,6 +54,9 @@ En la Ciudad Autónoma de Buenos Aires, a los 31 días del mes de enero del año
     <b>Artículo 11°</b>.- Queda terminantemente prohibido el uso de "lenguaje inclusivo" ya sea en sus variantes utilizando la letra "E" o la letra "X". Se exceptúan los casos catalogados como broma. La Administración evaluará cada caso apropiadamente y lo catalogará como broma o como uso adrede.<br>
   <b>Penalización:</b> 2 (dos) días por palabra escrita en lenguaje inclusivo.
   </li>
+  <li><p align="justify">  
+    <b>Artículo 12°</b>.-El Anexo 7° tiene total validez y vigencia, en dicho anexo se enumeran las condicones de las penalizaciones por en el caso de multiples sanciones consecutivas. Las penalizaciones seran definidas en el, asi como sus condiciones.
+  </li>
 </ul>
 
 ## Excepciones a las reglas
@@ -268,6 +271,19 @@ Sólo se tienen en cuenta salidas que hayan sido propuestas en el grupo y que se
   <li><p align="justify">El registro de puntos se llevará a cabo en un mensaje destinado exclusivamente a tal fin en el grupo, antecedido por la expresión &Presentismo. La actualización se realizará luego de la ejecución de cada salida.</li>
   <li><p align="justify">Cuando un agente sea reincorporado luego de una penalización por llegar 0 (cero) puntos, se le otorgarán 7 (siete) puntos.</li>
 </ul>
+
+## ANEXO 7° - Reincidencia de amonestaciones.
+
+<p align="justify">
+La Administración buscando premiar el comportamiento ejemplar y castigar las acciones indevidas, entra en vigencia el sistema de reicidencia. Los Agemtes los cuales cometan 3 (tres) o mas faltas dentro del mes, se los sancionara con el doble de dias de penalización duarante lo que queda del mes y el mes siguiente. Ej. Si el Agente no contesta 3 veces confirmando o no su asistencia las primeras 2 veces se lo amonesta por la cantidad de 4 Dias en ambas ocaciones pero a la 3era vez se lo amonesta por la cantidad de 8 dias. 
+  
+#### Consideraciones
+
+<ul>
+  <li>La cantidad de dias de suspención se reinicia luego que el Agente se conporte correctamente durante todo un mes</li>
+  <li>En el caso de cometer sanciones anidadas, se tomaran cada sancion como una sancion independiente y se sumaran los dias de suspención</li> 
+</ul>
+
 
 ## Vigencia y firma
 
