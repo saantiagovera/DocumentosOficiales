@@ -54,6 +54,9 @@ En la Ciudad Autónoma de Buenos Aires, a los 31 días del mes de enero del año
     <b>Artículo 11°</b>.- Queda terminantemente prohibido el uso de "lenguaje inclusivo" ya sea en sus variantes utilizando la letra "E" o la letra "X". Se exceptúan los casos catalogados como broma. La Administración evaluará cada caso apropiadamente y lo catalogará como broma o como uso adrede.<br>
   <b>Penalización:</b> 2 (dos) días por palabra escrita en lenguaje inclusivo.
   </li>
+  <li><p align="justify">  
+    <b>Artículo 12°</b>.- El Anexo 7° (Sanciones por reincidencias) tiene total validez y vigencia, en dicho anexo se describen las penalizaciones por múltiples sanciones consecutivas y sus condiciones.
+  </li>
 </ul>
 
 ## Excepciones a las reglas
@@ -268,6 +271,19 @@ Sólo se tienen en cuenta salidas que hayan sido propuestas en el grupo y que se
   <li><p align="justify">El registro de puntos se llevará a cabo en un mensaje destinado exclusivamente a tal fin en el grupo, antecedido por la expresión &Presentismo. La actualización se realizará luego de la ejecución de cada salida.</li>
   <li><p align="justify">Cuando un agente sea reincorporado luego de una penalización por llegar 0 (cero) puntos, se le otorgarán 7 (siete) puntos.</li>
 </ul>
+
+## ANEXO 7° - Sanciones por reincidencias.
+
+<p align="justify">
+La Administración, con el fin de premiar el comportamiento ejemplar y castigar las conductas inadecuadas, pone en vigencia el Sistema de Reicidencias. Los agentes que cometan 3 (tres) o más faltas dentro de un lapso de 30 días, serán sancionados con el doble de días de penalización (en la 3ra. sanción y sucesivas) durante lo que quede por transcurrir del mes corriente y durante el mes siguiente. Ejemplo: si el agente omite 3 veces confirmar su asistencia a una salida, las primeras 2 veces será sancionado con 4 (cuatro) días de expulsión, pero a la 3ra. vez se lo sancionará con 8 (ocho) días de expulsión. 
+  
+#### Consideraciones
+
+<ul>
+  <li><p align="justify">La duplicación de los días de expulsión finalizará luego de que el agente se comporte correctamente durante todo un mes o luego de terminado el mes posterior a la 3ra. sanción, lo que ocurra último.</li>
+  <li><p align="justify">En el caso de que un agente cometa sanciones anidadas, se tomará cada sanción como una sanción independiente y se sumarán los días de suspensión</li> 
+</ul>
+
 
 ## Vigencia y firma
 
