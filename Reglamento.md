@@ -19,7 +19,7 @@ En la Ciudad Autónoma de Buenos Aires, a los 31 días del mes de enero del año
     <b>Artículo 1°</b>.- El agente “Gatica, Gabriel”  - DNI 39.771.115  tendrá permitido subir un máximo de 5 contenidos multimedia (fotos y/o videos) cada 24 horas, de los cuales 3 (tres), como máximo, podrán ser videos.<br> <b>Penalización:</b> 2 (dos) días por cada contenido multimedia que haya excedido el límite susodicho.
   </li>
   <li><p align="justify">
-    <b>Artículo 2°</b>.- Está terminantemente prohibido publicar contenido que contenga o haga referencia a “Chávez, Jeremías” ya sea parcial o totalmente.<br>
+    <b>Artículo 2°</b>.- Está terminantemente prohibido publicar contenido que contenga a “Chávez, Jeremías” ya sea parcial o totalmente.<br>
  <b>Penalización:</b> 3 (tres) días.
   </li>
   <li><p align="justify">  
@@ -28,7 +28,7 @@ En la Ciudad Autónoma de Buenos Aires, a los 31 días del mes de enero del año
   </li>
   <li><p align="justify">  
     <b>Artículo 4°</b>.- Cualquier agente que confirmase su asistencia a una salida y posteriormente no concurra a la misma, será expulsado del grupo.<br>
- <b>Penalización:</b> 4 (cuatro) días en caso de haber avisado de su ausencia 90 minutos antes de la salida (o anteriormente al horario determinado por el organizador), 7 (siete) días en caso de haber avisado con una antelación menor y 14 (catorce) días en caso de no haber avisado.
+ <b>Penalización:</b> 4 (cuatro) días en caso de haber avisado de su ausencia 90 minutos antes de la salida, 7 (siete) días en caso de haber avisado con una antelación menor y 14 (catorce) días en caso de no haber avisado.
   </li>
   <li><p align="justify">  
     <b>Artículo 5°</b>.- Los todopoderosos "Rabahia, Sergio Mathias" y "Ferrero Vilas, Matias Gabriel"  se ven exentos de cualquier regla.
