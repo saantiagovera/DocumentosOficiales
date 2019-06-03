@@ -1,6 +1,6 @@
 <p align="center">
   <img src="logo.png" width=158 height=218><br>
-  Larrata GO 👮🔫🔪💣☭<br>
+  Larrata GO<br>
   “2019 - Año de Casino”<br><br>
 
   <b>
@@ -31,7 +31,7 @@ En la Ciudad Autónoma de Buenos Aires, a los 31 días del mes de enero del año
  <b>Penalización:</b> 4 (cuatro) días en caso de haber avisado de su ausencia 90 minutos antes de la salida (o anteriormente al horario determinado por el organizador), 7 (siete) días en caso de haber avisado con una antelación menor y 14 (catorce) días en caso de no haber avisado.
   </li>
   <li><p align="justify">  
-    <b>Artículo 5°</b>.- Los todopoderosos "Rabahia, Sergio Mathias" y "Ferrero Vilas, Matias Gabriel"  se ven exentos de cualquier regla.
+    <b>Artículo 5°</b>.- Los todopoderosos "Rabahia, Sergio Mathias" y "Yujra Tambo, Eduardo Braian"  se ven exentos de cualquier regla.
   </li>
   <li><p align="justify">  
     <b>Artículo 6°</b>.- Cualquier ambigüedad presentada al debatir el incumplimiento de algún artículo y/o excepción será resuelta por La Administración.
@@ -102,7 +102,7 @@ A continuación se detallan las fechas de cumpleaños de los agentes a modo de i
 ## ANEXO 2º - Integrantes de La Administración y colaboradores
 
 <p align="justify">
-Desígnase como Admins Supremos a los Sres. Ferrero Vilas, Matias Gabriel - DNI 39774576 y Rabahia Sergio Mathias - DNI 40136101.<br>
+Desígnase como Admins Supremos a los Sres. Yujra Tambo, Eduardo Braian - DNI 41802987 y Rabahia Sergio Mathias - DNI 40136101.<br>
 Desígnase como colaborador en la redacción tanto del presente documento como de escritos futuros al Sr. Albacetti Mandrillo, Matías Nicolás - DNI 40129244.
 
 ## ANEXO 3º - Sobrenombres de los agentes
@@ -196,7 +196,7 @@ Al llegar a las 4 (cuatro) faltas se penalizará al agente en cuestión con 1 (u
 ## ANEXO 5° - Solicitud de Revisión/Creación de Reglas
 
 <p align="justify">
-Cualquier agente perteneciente a Larrata GO 👮🔫🔪💣☭ posee plena facultdad de solicitar modificaciones a las reglas enunciadas en este documento o sugerir la creación de reglas/excepciones nuevas. Dichas solicitudes se podran efectuar a través de los issues del presente repositorio. LINK: https://github.com/matiasalbacetti/LarrataFiles/issues <br>
+Cualquier agente perteneciente a Larrata posee plena facultdad de solicitar modificaciones a las reglas enunciadas en este documento o sugerir la creación de reglas/excepciones nuevas. Dichas solicitudes se podran efectuar a través de los issues del presente repositorio. LINK: https://github.com/matiasalbacetti/LarrataFiles/issues <br>
 La Administración evaluará apropiadamente cada solicitud y responderá a las mismas en el mismo issue.
   
 #### Consideraciones
@@ -289,7 +289,7 @@ La Administración, con el fin de premiar el comportamiento ejemplar y castigar 
 
 <p align="justify">
 Este reglamento tendrá efecto una vez publicado. Es responsabilidad de cada agente la lectura del mismo y estar al tanto de cada nueva regla. Las penalizaciones no poseen lugar al reclamo. La Administración no se responsabiliza por las salidas perdidas por los agentes durante sus eventuales períodos de penalización.<br>
-Pertenecer al Grupo Larrata GO 👮🔫🔪💣☭ implica que el agente en cuestión acepta y respetará de buena fe las reglas y consideraciones enunciadas en este documento.
+Pertenecer al Grupo Larrata implica que el agente en cuestión acepta y respetará de buena fe las reglas y consideraciones enunciadas en este documento.
 </p>
 <table>
   <tr>
@@ -297,10 +297,10 @@ Pertenecer al Grupo Larrata GO 👮🔫🔪💣☭ implica que el agente en cues
     <td><img src="Firma Rabahia, Sergio.png" width=176 height=90>
   </tr>
   <tr>
-    <td>Ferrero Vilas, Matías Gabriel
+    <td>Yujra Tambo, Eduardo Braian
     <td>Rabahia, Sergio Mathias
   </tr>
 </table>
 
 <p align="center">
-  Administración M&M<br><b>Poniendo orden</b>
+  Administración M&E<br><b>Haciendo lo que hay que hacer</b>
