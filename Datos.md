@@ -1,4 +1,4 @@
-<table>
+<table width="800">
             <tr>
               <th>DNI</th>  
               <th>AGENTE</th>
