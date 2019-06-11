@@ -1,16 +1,15 @@
 <p align="center">
   <img src="logo.png" width=158 height=218><br>
-  Larrata GO<br>
+  Larrata 🐀 ✈<br>
   “2019 - Año de Casino”<br><br>
 
   <b>
   Reglamento y Normas de Convivencia<br>
-  <br>Acta N°4/19
   </b>
 </p>
 <br>
 <p align="justify">
-En la Ciudad Autónoma de Buenos Aires, a los 31 días del mes de enero del año 2019, en el marco del comienzo del año, Administración M&M -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento, agregando cambios y aclaraciones a las reglas existentes y sus correspondientes penalizaciones en caso de incumpliento, así como también nuevas reglas.
+En la Ciudad Autónoma de Buenos Aires, a los 06 días del mes de Junio del año 2019, en el marco del comienzo del año, Administración M&E -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 ✈ denominado "El grupo", agregando cambios y aclaraciones a las reglas existentes y sus correspondientes penalizaciones en caso de incumpliento, así como también nuevas reglas.
 
 ## Reglas
 
@@ -37,7 +36,8 @@ En la Ciudad Autónoma de Buenos Aires, a los 31 días del mes de enero del año
     <b>Artículo 6°</b>.- Cualquier ambigüedad presentada al debatir el incumplimiento de algún artículo y/o excepción será resuelta por La Administración.
   </li>
   <li><p align="justify">  
-    <b>Artículo 7°</b>.- Es un derecho del organizador de una salida enviar un mensaje etiquetando a los agentes que hayan ignorado (en la jerga popular "clavado visto") el mensaje en que se consulta sobre el interés o no en participar de la misma. El organizador no tiene permitido etiquetar en este mensaje a ningún agente que haya reportado previamente vacaciones que lo absuelvan de la salida en cuestión.<br>
+    <b>Artículo 7°</b>.- Es un derecho del organizador de una salida enviar un mensaje etiquetando a los agentes que hayan ignorado (en la jerga popular "clavado visto") el mensaje en que se consulta sobre el interés o no en participar de la misma. El organizador no tiene permitido etiquetar en este mensaje a ningún agente que haya reportado previamente o vacaciones que lo absuelvan de la salida en cuestión.
+    Asimismo, <br>
     <b>Penalización:</b> 2 (dos) días por cada agente etiquetado indebidamente.
   </li>
     <li><p align="justify">  
@@ -143,6 +143,10 @@ A continuación se detallan los sobrenombres (apodos, alias) oficiales que La Ad
   <td>Scapusio, Gianfranco</td>
   <td>“Cachu”</td>
 </tr>
+<tr>
+  <td>Corsi, Julian</td>
+  <td>“epdc”</td>
+</tr>  
 </table>
 
 #### Salvación de ambigüedades
