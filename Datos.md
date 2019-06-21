@@ -95,8 +95,8 @@
                 <td>10/07</td><!--fecha-->
                 <td>gatica.gab@gmail.com</td><!--mail-->
                 <td>Policia, Gabot, Gabinete</td><!--sobreNombre-->
-                <td>-</td><!--alias-->
-                <td>-</td><!--todopago-->
+                <td>GabrielGatica</td><!--alias-->
+                <td>gatica.gab@gmail.com</td><!--todopago-->
                 <td>-</td><!--CBU-->
             </tr>
             <tr>
@@ -125,9 +125,9 @@
                 <td>02/09</td><!--fecha-->
                 <td>corsijulian@gmail.com</td><!--mail-->
                 <td>-</td><!--sobreNombre-->
-                <td>-</td><!--alias-->
+                <td>MILA.COM.PURE</td><!--alias-->
                 <td>-</td><!--todopago-->
-                <td>-</td><!--CBU-->
+                <td>1500303800030360760232</td><!--CBU-->
             </tr>
             <tr>
                 <td>39.774.576</td><!--DNI-->
@@ -146,7 +146,7 @@
                 <td>eduardo.y.t@hotmail.com</td><!--mail-->
                 <td>-</td><!--sobreNombre-->
                 <td>REFRAN.CUNA.ISLA</td><!--alias-->
-                <td></td><!--todopago-->
+                <td>-</td><!--todopago-->
                 <td>0720087888000044912668</td><!--CBU-->
             </tr>
             <tr>
@@ -156,7 +156,7 @@
                 <td>francomartinmendez@hotmail.com</td><!--mail-->
                 <td>-</td><!--sobreNombre-->
                 <td>LLAVE.CEREZA.PILA</td><!--alias-->
-                <td></td><!--todopago-->
+                <td>-</td><!--todopago-->
                 <td>0720087888000044912668</td><!--CBU-->
             </tr>
             <tr>
@@ -166,7 +166,7 @@
                 <td>gonzalomanuelmendez@hotmail.com</td><!--mail-->
                 <td>-</td><!--sobreNombre-->
                 <td>PUENTE.SEPIA.PULSO</td><!--alias-->
-                <td></td><!--todopago-->
+                <td>-</td><!--todopago-->
                 <td>-</td><!--CBU-->
             </tr>
             </table>
