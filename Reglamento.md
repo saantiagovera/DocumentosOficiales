@@ -211,56 +211,7 @@ La Administración evaluará apropiadamente cada solicitud y responderá a las m
   <li><p align="justify">Una solicitud que fue rechazada por La Administración, sólo podrá ser reconsiderada por iniciativa propia de La Administración, quedando de esta forma prohibida la carga de solicitudes repetidas por parte de los agentes.
 </ul>
 
-## ANEXO 6° - Control de Presentismo  
 
-<p align="justify">
-Con el fin de promover la asistencia de los agentes a las salidas, La Administración publica el siguiente anexo.<br>
-Se implementará un sistema de puntos que tiene como objetivo penalizar a aquellos agentes cuya cantidad de asistencias a salidas sea muy baja durante un período de tiempo.
-  
-#### Sistema de puntos
-
-<p align="justify">
-Cada agente contará con 15 (quince) puntos desde la publicación de este anexo. Mediante este sistema los agentes perderán puntos cuando no asistan a salidas y sumarán puntos cuando sí lo hagan. Aquel agente que llegue a 0 (cero) puntos será penalizado con 3 (tres) días de expulsión. Los agentes no podrán acumular más de 15 (quince) puntos.
-
-#### Tipos de salidas
-
-<ul>
-  <li><p align="justify"><b>Salidas importantes:</b> Cena de Fin de Año y Reunión del Día del Amigo.</li>
-  <li><p align="justify"><b>Salidas intermedias:</b> cumpleaños y cualquier salida que cuente con la presencia de 8 (ocho) o más agentes.</li>
-  <li><p align="justify"><b>Salidas comunes:</b> cualquier salida que cuente con la presencia de entre 4 (cuatro) y 7 (siete) agentes. </li>
-  <li><p align="justify"><b>Viajes:</b> se considera viaje a una salida cuyos asistentes permanecen más de 24 (veinticuatro) horas alejados (más de 40 (cuarenta) kilómetros) de la Ciudad de Buenos Aires. También será considerada viaje cualquier salida cuyo destino se encuentre a más de 150 kilómetros de la Ciudad de Buenos Aires.</li>
-</ul>
-
-Sólo se tienen en cuenta salidas que hayan sido propuestas en el grupo y que se hayan concretado con la presencia de al menos 4 agentes.
-
-#### Suma/Resta de puntos
-
-<ul>
-  <li><p align="justify"><b>Salidas importantes:</b> 
-    <ul>
-      <li>Ausencia: el agente perderá 10 (diez) puntos.</li>
-      <li>Asistencia: el agente sumará 2 (dos) puntos.</li>
-    </ul>
-  </li>
-  <li><p align="justify"><b>Salidas intermedias:</b>
-    <ul>
-      <li>Ausencia: el agente perderá 4 (cuatro) puntos.</li>
-      <li>Asistencia: el agente sumará 4 (cuatro) puntos.</li>
-    </ul>
-  </li>
-  <li><p align="justify"><b>Salidas comunes:</b>
-    <ul>
-      <li>Ausencia: el agente perderá 3 (tres) puntos.</li>
-      <li>Asistencia: el agente sumará 7 (siete) puntos.</li>
-    </ul>
-  </li>
-  <li><p align="justify"><b>Viajes:</b>
-    <ul>
-      <li>Ausencia: el agente no perdera puntos.</li>
-      <li>Asistencia: el agente reiniciará su contador llegando a 15 (quince) puntos.</li>
-    </ul>
-  </li>
-</ul>
 
 #### Consideraciones
 
