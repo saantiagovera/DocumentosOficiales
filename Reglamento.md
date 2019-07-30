@@ -216,7 +216,7 @@ La Administración evaluará apropiadamente cada solicitud y responderá a las m
 #### Consideraciones
 
 <ul>
-  <li><p align="justify">Los agentes no perderán puntos cuando sus ausencias a salidas se deban a:
+  <li><p align="justify">Los agentes no seran sancionados cuando sus ausencias a salidas se deban a:
     <ul>
       <li>Vacaciones. Debe haber sido expresado claramente que es éste el motivo de la ausencia.</li>
       <li>Problemas familiares.</li>
