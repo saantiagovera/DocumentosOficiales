@@ -223,8 +223,7 @@ La Administración evaluará apropiadamente cada solicitud y responderá a las m
       <li>Problemas de salud.</li>
     </ul>
     La Administración evaluará cada situación apropiadamente.
-  <li><p align="justify">El registro de puntos se llevará a cabo en un mensaje destinado exclusivamente a tal fin en el grupo, antecedido por la expresión &Presentismo. La actualización se realizará luego de la ejecución de cada salida.</li>
-  <li><p align="justify">Cuando un agente sea reincorporado luego de una penalización por llegar 0 (cero) puntos, se le otorgarán 7 (siete) puntos.</li>
+ 
 </ul>
 
 ## ANEXO 7° - Sanciones por reincidencias.
