@@ -41,14 +41,14 @@ En la Ciudad Autónoma de Buenos Aires, al primer día del mes de Agosto del añ
     <b>Penalización:</b> 2 (dos) días por cada agente etiquetado indebidamente.
   </li>
     <li><p align="justify">  
-    <b>Artículo 8°</b>.
+    <b>Artículo 8°</b>. Se agrega el nuevo Anexo 4º (Control de toxicidad y ambiente apto). El mismo consta de total vigencia.
   </li>
   <li><p align="justify">  
     <b>Artículo 9°</b>.- La Administración tiene la potestad de actuar de oficio (penalizar a un agente sin que éste haya incumplido una de las reglas enunciadas en este documento) siempre que lo considere necesario. Cada vez que La Administración decida actuar de oficio, evaluará si la situación en cuestión amerita la creación de una nueva regla, con el fin de minimizar la cantidad de ocasiones en que este artículo deba aplicarse.
   </li>
   </li>
     <li><p align="justify">  
-    <b>Artículo 10°</b>.- El Anexo 6° (Control de Presentismo) tiene total validez y vigencia. Las penalizaciones que en él se definen serán tomadas en cuenta de la misma forma que las enumeradas en estos artículos.
+    <b>Artículo 10°</b>.- El Anexo 6° (Datos Bancarios) se agrega a este documento, se hayan los datos bancarios de todos los Agtes del grupo con el fin de agilizar el pago.
   </li>
   <li><p align="justify">  
     <b>Artículo 11°</b>.- Queda terminantemente prohibido el uso de "lenguaje inclusivo" ya sea en sus variantes utilizando la letra "E" o la letra "X". Se exceptúan los casos catalogados como broma. La Administración evaluará cada caso apropiadamente y lo catalogará como broma o como uso adrede.<br>
@@ -150,6 +150,11 @@ A continuación se detallan los sobrenombres (apodos, alias) oficiales que La Ad
 <p align="justify">
 Las referencias ambiguas hacia los agentes llamados Matías se resolverán empleando los sobrenombres oficiales de los agentes “Ferrero Vilas, Matías Gabriel” y “Notario, Matías Nicolás”.
 Las referencias ambiguas hacia los agentes llamados Lucas se resolverán empleando los sobrenombres oficiales del agente “Simunovich, Lucas Martín”
+
+## ANEXO 4° - Control de toxicidad y ambiente apto
+
+<p align="justify">
+Con el fin de garantizar un ambiente sano para todos los Agentes integrantes de este grupo se castigara a las personas que tengan un comportamiento agresivo, inesesariamente toxico o indevido hacia otro/s agente tendra 1º (un) Strike y se le advertira de su mal comportamiento. Al moemnto que el Agte. infractor acumule 3 (tres) Strike se lo penalizara echandolo del grupo por un lapso de 3 (tres) dias. Dichos Strikes se reiniciaran al luego de la penalizacion o al fin del mes, lo que primero ocurra. Cabe destacar que dicha penalización puede ser afectada por la regla de reicidencia.
 
 
 ## ANEXO 5° - Solicitud de Revisión/Creación de Reglas
