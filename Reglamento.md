@@ -36,7 +36,7 @@ En la Ciudad Autónoma de Buenos Aires, al primer día del mes de Agosto del añ
     <b>Artículo 6°</b>.- Cualquier ambigüedad presentada al debatir el incumplimiento de algún artículo y/o excepción será resuelta por La Administración.
   </li>
   <li><p align="justify">  
-    <b>Artículo 7°</b>.- Es un derecho del organizador de una salida enviar un mensaje etiquetando a los agentes que hayan ignorado (en la jerga popular "clavado visto") el mensaje en que se consulta sobre el interés o no en participar de la misma. El organizador no tiene permitido etiquetar en este mensaje a ningún agente que haya reportado previamente o vacaciones que lo absuelvan de la salida en cuestión. Asimismo se aclara que los Agtes. Notario (en días de la semana) y Addesi tampoco deben ser etiquetados por las razones que son de público conocimiento.
+    <b>Artículo 7°</b>.- Es un derecho del organizador de una salida enviar un mensaje etiquetando a los agentes que hayan ignorado (en la jerga popular "clavado visto") el mensaje en que se consulta sobre el interés o no en participar de la misma. El organizador no tiene permitido etiquetar en este mensaje a ningún agente que haya reportado previamente o vacaciones que lo absuelvan de la salida en cuestión. Asimismo se aclara que los Agtes. Notario (en días hábiles) y Addesi tampoco deben ser etiquetados por las razones que son de público conocimiento.
     Asimismo, <br>
     <b>Penalización:</b> 2 (dos) días por cada agente etiquetado indebidamente.
   </li>
