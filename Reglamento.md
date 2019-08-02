@@ -36,7 +36,7 @@ En la Ciudad Autónoma de Buenos Aires, al primer día del mes de Agosto del añ
     <b>Artículo 6°</b>.- Cualquier ambigüedad presentada al debatir el incumplimiento de algún artículo y/o excepción será resuelta por La Administración.
   </li>
   <li><p align="justify">  
-    <b>Artículo 7°</b>.- Es un derecho del organizador de una salida enviar un mensaje etiquetando a los agentes que hayan ignorado (en la jerga popular "clavado visto") el mensaje en que se consulta sobre el interés o no en participar de la misma. El organizador no tiene permitido etiquetar en este mensaje a ningún agente que haya reportado previamente o vacaciones que lo absuelvan de la salida en cuestión. Asimismo se contempla que los casos de los Agtes. Notario (en dias de la semana) y Adesi tampoco deben ser etiquetados por las razones que son de publico conocimiento.
+    <b>Artículo 7°</b>.- Es un derecho del organizador de una salida enviar un mensaje etiquetando a los agentes que hayan ignorado (en la jerga popular "clavado visto") el mensaje en que se consulta sobre el interés o no en participar de la misma. El organizador no tiene permitido etiquetar en este mensaje a ningún agente que haya reportado previamente o vacaciones que lo absuelvan de la salida en cuestión. Asimismo se aclara que los Agtes. Notario (en días de la semana) y Addesi tampoco deben ser etiquetados por las razones que son de público conocimiento.
     Asimismo, <br>
     <b>Penalización:</b> 2 (dos) días por cada agente etiquetado indebidamente.
   </li>
@@ -48,7 +48,7 @@ En la Ciudad Autónoma de Buenos Aires, al primer día del mes de Agosto del añ
   </li>
   </li>
     <li><p align="justify">  
-    <b>Artículo 10°</b>.- El Anexo 6° (Datos Bancarios) se agrega a este documento, se hayan los datos bancarios de todos los Agtes del grupo con el fin de agilizar el pago.
+    <b>Artículo 10°</b>.- El Anexo 6° (Datos Bancarios) se agrega a este documento, en el mismo se detallan los datos bancarios de todos los Agtes. del grupo con el fin de agilizar pagos y de minimizar problemas relacionados con el cambio.
   </li>
   <li><p align="justify">  
     <b>Artículo 11°</b>.- Queda terminantemente prohibido el uso de "lenguaje inclusivo" ya sea en sus variantes utilizando la letra "E" o la letra "X". Se exceptúan los casos catalogados como broma. La Administración evaluará cada caso apropiadamente y lo catalogará como broma o como uso adrede.<br>
@@ -154,7 +154,7 @@ Las referencias ambiguas hacia los agentes llamados Lucas se resolverán emplean
 ## ANEXO 4° - Control de toxicidad y ambiente apto
 
 <p align="justify">
-Con el fin de garantizar un ambiente sano para todos los Agentes integrantes de este grupo se castigara a las personas que tengan un comportamiento agresivo, inesesariamente toxico o indevido hacia otro/s agente tendra 1º (un) Strike y se le advertira de su mal comportamiento. Al moemnto que el Agte. infractor acumule 3 (tres) Strike se lo penalizara echandolo del grupo por un lapso de 3 (tres) dias. Dichos Strikes se reiniciaran al luego de la penalizacion o al fin del mes, lo que primero ocurra. Cabe destacar que dicha penalización puede ser afectada por la regla de reicidencia.
+Con el fin de garantizar un ambiente sano para todos los agentes del grupo, se castigará a las personas que tengan un comportamiento agresivo, innecesariamente tóxico o indebido para con otro(s) agente(s). Cada incidencia será considerada un "Strike": los dos primeros strikes serán penalizados con una advertencia; el tercer strike será penalizado con la expulsión del grupo por un lapso de 3 (tres) días. Dichos strikes se reiniciarán luego de la penalización o al iniciar un nuevo mes, lo que primero ocurra. Cabe destacar que dicha penalización puede ser afectada por la regla de reincidencias.
 
 
 ## ANEXO 5° - Solicitud de Revisión/Creación de Reglas
