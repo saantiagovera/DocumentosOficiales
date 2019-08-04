@@ -228,4 +228,4 @@ Pertenecer al Grupo Larrata implica que el agente en cuestión acepta y respetar
 </table>
 
 <p align="center">
-  Administración V&M<br><b>Trabajando duro para un mejor futuro</b>
+  Administración S&M<br><b>Trabajando duro para un mejor futuro</b>
