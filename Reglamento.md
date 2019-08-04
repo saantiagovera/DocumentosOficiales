@@ -60,6 +60,11 @@ En la Ciudad Autónoma de Buenos Aires, al cuarto dia del mes de Agosto del año
   <li><p align="justify">  
     <b>Artículo 13°</b>.- El Anexo 8° (Primero, la democracia) tiene total validez y vigencia, en dicho anexo se describen sus condiciones.
   </li>
+  <li><p align="justify">  
+  <b>Artículo 14°</b>.- Será mérito de sanción quienes insulten o realicen injurias hacia el grupo alternativo "Casino Go", el cual a partir del dia 04/08/2019 es oficialmente asociado al grupo principal "Larrata". Se aplicara tal como en el <b>Artículo 11°</b> lo siguiente: "Se exceptúan los casos catalogados como broma. La Administración evaluará cada caso apropiadamente y lo catalogará como broma o como uso adrede" <br>
+   <b>Penalización:</b> Pena de hasta 3 (tres) días por cada insulto dependiendo la gravedad del mismo.
+   </li>
+  <li><p align="justify">  
 </ul>
 
 ## Excepciones a las reglas
