@@ -218,7 +218,7 @@ Pertenecer al Grupo Larrata implica que el agente en cuestión acepta y respetar
 </p>
 <table>
   <tr>
-    <td><img src="Firma Yujra, Eduardo.png" width=176 height=90>
+    <td><img src="Firma Temporal.png" width=176 height=90>
     <td><img src="Firma Notario, Matías Nicolás.png" width=176 height=90>
   </tr>
   <tr>
