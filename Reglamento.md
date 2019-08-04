@@ -211,10 +211,10 @@ Pertenecer al Grupo Larrata implica que el agente en cuestión acepta y respetar
     <td><img src="Firma Rabahia, Sergio.png" width=176 height=90>
   </tr>
   <tr>
-    <td>Yujra Tambo, Eduardo Braian
-    <td>Rabahia, Sergio Mathias
+    <td>Vera, Santiago
+    <td>Notario, Matias Nicolas
   </tr>
 </table>
 
 <p align="center">
-  Administración M&E<br><b>Haciendo lo que hay que hacer</b>
+  Administración V&M<br><b>Trabajando duro para un mejor futuro</b>
