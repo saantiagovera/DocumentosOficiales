@@ -1,7 +1,7 @@
 <p align="center">
   <img src="logo.png" width=158 height=218><br>
   Larrata 🐀 <br>
-  “2019 - Año de Casino”<br><br>
+  “2019 - Año del Cambio”<br><br>
 
   <b>
   Reglamento y Normas de Convivencia<br>
@@ -9,13 +9,13 @@
 </p>
 <br>
 <p align="justify">
-En la Ciudad Autónoma de Buenos Aires, al primer día del mes de Agosto del año 2019, en el marco del comienzo del año, Administración M&E -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 denominado "El grupo", agregando cambios y aclaraciones a las reglas existentes y sus correspondientes penalizaciones en caso de incumpliento, así como también nuevas reglas.
+En la Ciudad Autónoma de Buenos Aires, al primer cuarto dia del mes de Agosto del año 2019, la Administración V&M -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 denominado "El grupo", agregando cambios y aclaraciones a las reglas existentes y sus correspondientes penalizaciones en caso de incumpliento, así como también nuevas reglas.
 
 ## Reglas
 
 <ul>
   <li><p align="justify">  
-    <b>Artículo 1°</b>.- El agente “Gatica, Gabriel”  - DNI 39.771.115  tendrá permitido subir un máximo de 5 contenidos multimedia (fotos y/o videos) cada 24 horas, de los cuales 3 (tres), como máximo, podrán ser videos.<br> <b>Penalización:</b> 2 (dos) días por cada contenido multimedia que haya excedido el límite susodicho.
+    <b>Artículo 1°</b>.- El agente “Gatica, Gabriel”  - DNI 39.771.115  tendrá permitido subir un máximo de 7 contenidos multimedia (fotos o videos) cada 24 horas, de los cuales 3 (tres), como máximo, podrán ser videos.<br> <b>Penalización:</b> 2 (dos) días por cada contenido multimedia que haya excedido el límite susodicho.
   </li>
   <li><p align="justify">
     <b>Artículo 2°</b>.- Está terminantemente prohibido publicar contenido que contenga o haga referencia a “Chávez, Jeremías” ya sea parcial o totalmente.<br>
@@ -23,7 +23,7 @@ En la Ciudad Autónoma de Buenos Aires, al primer día del mes de Agosto del añ
   </li>
   <li><p align="justify">  
     <b>Artículo 3°</b>.- Al producirse la organización de una salida, cualquier agente que se haya notificado fehacientemente del mensaje (lo haya visto, corroborado por la app de mensajería) en el cual se consulta quiénes son los interesados en concurrir a dicha reunión y no lo responda (confirmando si concurrirá o no) será expulsado del grupo. El plazo del que la persona en cuestión dispone para contestar será (en caso de que el organizador no coloque un plazo específico): desde la publicación de la propuesta hasta 90 minutos antes del comienzo de la salida.<br>
- <b>Penalización:</b> 4 (cuatro) días para personas normales y 7 (siete) días para personas de religión judía.
+ <b>Penalización:</b> 4 (cuatro) días para todos, sin importar religion y/o ideologia politica.
   </li>
   <li><p align="justify">  
     <b>Artículo 4°</b>.- Cualquier agente que confirmase su asistencia a una salida y posteriormente no concurra a la misma, será expulsado del grupo.<br>
@@ -102,7 +102,7 @@ A continuación se detallan las fechas de cumpleaños de los agentes a modo de i
 ## ANEXO 2º - Integrantes de La Administración y colaboradores
 
 <p align="justify">
-Desígnase como Admins Supremos a los Sres. Yujra Tambo, Eduardo Braian - DNI 41802987 y Rabahia Sergio Mathias - DNI 40136101.<br>
+Desígnase como Admins o sus excelencias a los Sres. Vera, Santiago Raul - DNI 39627001 y Notario, Matias Nicolas - DNI 39273324 .<br>
 Desígnase como colaborador en la redacción tanto del presente documento como de escritos futuros al Sr. Albacetti Mandrillo, Matías Nicolás - DNI 40129244.
 
 ## ANEXO 3º - Sobrenombres de los agentes
