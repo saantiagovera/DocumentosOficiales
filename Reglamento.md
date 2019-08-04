@@ -9,7 +9,7 @@
 </p>
 <br>
 <p align="justify">
-En la Ciudad Autónoma de Buenos Aires, al primer cuarto dia del mes de Agosto del año 2019, la Administración V&M -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 denominado "El grupo", agregando cambios y aclaraciones a las reglas existentes y sus correspondientes penalizaciones en caso de incumpliento, así como también nuevas reglas.
+En la Ciudad Autónoma de Buenos Aires, al cuarto dia del mes de Agosto del año 2019, la Administración V&M -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 denominado "El grupo", agregando cambios y aclaraciones a las reglas existentes y sus correspondientes penalizaciones en caso de incumpliento, así como también nuevas reglas.
 
 ## Reglas
 
@@ -30,7 +30,7 @@ En la Ciudad Autónoma de Buenos Aires, al primer cuarto dia del mes de Agosto d
  <b>Penalización:</b> 4 (cuatro) días en caso de haber avisado de su ausencia 90 minutos antes de la salida (o anteriormente al horario determinado por el organizador), 7 (siete) días en caso de haber avisado con una antelación menor y 14 (catorce) días en caso de no haber avisado.
   </li>
   <li><p align="justify">  
-    <b>Artículo 5°</b>.- Los todopoderosos "Rabahia, Sergio Mathias" y "Yujra Tambo, Eduardo Braian"  se ven exentos de cualquier regla.
+    <b>Artículo 5°</b>.- Los administradores elegidos por voto popular, deberan acatarse a respetar las reglas.
   </li>
   <li><p align="justify">  
     <b>Artículo 6°</b>.- Cualquier ambigüedad presentada al debatir el incumplimiento de algún artículo y/o excepción será resuelta por La Administración.
