@@ -163,6 +163,11 @@ Con el fin de garantizar un ambiente sano para todos los agentes del grupo, se c
 Cualquier agente perteneciente a Larrata posee plena facultdad de solicitar modificaciones a las reglas enunciadas en este documento o sugerir la creación de reglas/excepciones nuevas. Dichas solicitudes se podran efectuar a través de los issues del presente repositorio. LINK: https://github.com/matiasalbacetti/LarrataFiles/issues <br>
 La Administración evaluará apropiadamente cada solicitud y responderá a las mismas en el mismo issue.
   
+  ## ANEXO 6° - Primero, la democracia
+
+<p align="justify">
+Los administradores tienen plazo de permanencia de 6 meses, con posibilidad de reelecion por otro periodo. Ademas, en caso de que peligre o que los administradores no cumplan con sus funciones, los agentes (siempre y cuando tengan mas del 50% de los votos) podran convocar a elecciones, las cuales se deberan realizar en un plazo no mayor a 1 mes luego de la solicitud. La formula ganadora, se encargara del grupo hasta cumplir el plazo que dejo vacante la gobernacion anterior.
+  
 #### Consideraciones
 
 <ul>
