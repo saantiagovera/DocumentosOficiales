@@ -57,6 +57,9 @@ En la Ciudad Autónoma de Buenos Aires, al cuarto dia del mes de Agosto del año
   <li><p align="justify">  
     <b>Artículo 12°</b>.- El Anexo 7° (Sanciones por reincidencias) tiene total validez y vigencia, en dicho anexo se describen las penalizaciones por múltiples sanciones consecutivas y sus condiciones.
   </li>
+  <li><p align="justify">  
+    <b>Artículo 13°</b>.- El Anexo 8° (Primero, la democracia) tiene total validez y vigencia, en dicho anexo se describen sus condiciones.
+  </li>
 </ul>
 
 ## Excepciones a las reglas
@@ -72,7 +75,7 @@ En la Ciudad Autónoma de Buenos Aires, al cuarto dia del mes de Agosto del año
     El <b>Artículo 4</b> no tiene efecto si el agente en cuestión sufre un problema familiar o de salud. Esta excepción se aplicará bajo el criterio de La Administración, que evaluará cada caso apropiadamente.
   </li>
   <li><p align="justify">
-    Los agentes poseen inmunidad en el día de su cumpleaños, ademas de que seran saludados afectuosamente por los administradores.
+    Los agentes poseen inmunidad en el día de su cumpleaños, además de que serán saludados afectuosamente por los administradores.
   </li>
 </ol>
 
@@ -201,7 +204,7 @@ La Administración, con el fin de premiar el comportamiento ejemplar y castigar 
   ## ANEXO 8° - Primero, la democracia
 
 <p align="justify">
-Los administradores tienen plazo de permanencia de 6 meses (1/2 al 1/8 y asi), con posibilidad de reelecion por otro periodo solamente. Ademas, en caso de que peligre o que los administradores no cumplan con sus funciones, los agentes (siempre y cuando tengan mas del 50% de los votos) podran convocar a elecciones, las cuales se deberan realizar en un plazo no mayor a 1 mes luego de la solicitud. La formula ganadora, se encargara del grupo hasta cumplir el plazo que dejo vacante la gobernacion anterior.
+Los administradores tienen plazo de permanencia de 6 meses (1/2 al 1/8 y asi), con posibilidad de reelecion por otro periodo solamente. Además, en caso de que peligre o que los administradores no cumplan con sus funciones, los agentes (siempre y cuando tengan mas del 50% de los votos) podrán convocar a elecciones, las cuales se deberán realizar en un plazo no mayor a 1 mes luego de la solicitud. La fórmula ganadora, se encargará del grupo hasta cumplir el plazo que dejo vacante la administración anterior.
 
 ## Vigencia y firma
 
