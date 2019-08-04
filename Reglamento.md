@@ -1,7 +1,7 @@
 <p align="center">
   <img src="logo.png" width=158 height=218><br>
-  Larrata 🐀 ✈<br>
-  “2019 - Año de Casino”<br><br>
+  Larrata 🐀 <br>
+  “2019 - Año del Cambio”<br><br>
 
   <b>
   Reglamento y Normas de Convivencia<br>
@@ -9,13 +9,13 @@
 </p>
 <br>
 <p align="justify">
-En la Ciudad Autónoma de Buenos Aires, a los 06 días del mes de Junio del año 2019, en el marco del comienzo del año, Administración M&E -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 ✈ denominado "El grupo", agregando cambios y aclaraciones a las reglas existentes y sus correspondientes penalizaciones en caso de incumpliento, así como también nuevas reglas.
+En la Ciudad Autónoma de Buenos Aires, al cuarto dia del mes de Agosto del año 2019, la Administración V&M -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 denominado "El grupo", agregando cambios y aclaraciones a las reglas existentes y sus correspondientes penalizaciones en caso de incumpliento, así como también nuevas reglas.
 
 ## Reglas
 
 <ul>
   <li><p align="justify">  
-    <b>Artículo 1°</b>.- El agente “Gatica, Gabriel”  - DNI 39.771.115  tendrá permitido subir un máximo de 5 contenidos multimedia (fotos y/o videos) cada 24 horas, de los cuales 3 (tres), como máximo, podrán ser videos.<br> <b>Penalización:</b> 2 (dos) días por cada contenido multimedia que haya excedido el límite susodicho.
+    <b>Artículo 1°</b>.- El agente “Gatica, Gabriel”  - DNI 39.771.115  tendrá permitido subir un máximo de 7 contenidos multimedia (fotos o videos) cada 24 horas, de los cuales 3 (tres), como máximo, podrán ser videos.<br> <b>Penalización:</b> 2 (dos) días por cada contenido multimedia que haya excedido el límite susodicho.
   </li>
   <li><p align="justify">
     <b>Artículo 2°</b>.- Está terminantemente prohibido publicar contenido que contenga o haga referencia a “Chávez, Jeremías” ya sea parcial o totalmente.<br>
@@ -23,32 +23,32 @@ En la Ciudad Autónoma de Buenos Aires, a los 06 días del mes de Junio del año
   </li>
   <li><p align="justify">  
     <b>Artículo 3°</b>.- Al producirse la organización de una salida, cualquier agente que se haya notificado fehacientemente del mensaje (lo haya visto, corroborado por la app de mensajería) en el cual se consulta quiénes son los interesados en concurrir a dicha reunión y no lo responda (confirmando si concurrirá o no) será expulsado del grupo. El plazo del que la persona en cuestión dispone para contestar será (en caso de que el organizador no coloque un plazo específico): desde la publicación de la propuesta hasta 90 minutos antes del comienzo de la salida.<br>
- <b>Penalización:</b> 4 (cuatro) días para personas normales y 7 (siete) días para personas de religión judía.
+ <b>Penalización:</b> 4 (cuatro) días para todos, sin importar religion y/o ideologia politica.
   </li>
   <li><p align="justify">  
     <b>Artículo 4°</b>.- Cualquier agente que confirmase su asistencia a una salida y posteriormente no concurra a la misma, será expulsado del grupo.<br>
  <b>Penalización:</b> 4 (cuatro) días en caso de haber avisado de su ausencia 90 minutos antes de la salida (o anteriormente al horario determinado por el organizador), 7 (siete) días en caso de haber avisado con una antelación menor y 14 (catorce) días en caso de no haber avisado.
   </li>
   <li><p align="justify">  
-    <b>Artículo 5°</b>.- Los todopoderosos "Rabahia, Sergio Mathias" y "Yujra Tambo, Eduardo Braian"  se ven exentos de cualquier regla.
+    <b>Artículo 5°</b>.- Los administradores elegidos por voto popular, deberan acatarse a respetar las reglas.
   </li>
   <li><p align="justify">  
     <b>Artículo 6°</b>.- Cualquier ambigüedad presentada al debatir el incumplimiento de algún artículo y/o excepción será resuelta por La Administración.
   </li>
   <li><p align="justify">  
-    <b>Artículo 7°</b>.- Es un derecho del organizador de una salida enviar un mensaje etiquetando a los agentes que hayan ignorado (en la jerga popular "clavado visto") el mensaje en que se consulta sobre el interés o no en participar de la misma. El organizador no tiene permitido etiquetar en este mensaje a ningún agente que haya reportado previamente o vacaciones que lo absuelvan de la salida en cuestión.
+    <b>Artículo 7°</b>.- Es un derecho del organizador de una salida enviar un mensaje etiquetando a los agentes que hayan ignorado (en la jerga popular "clavado visto") el mensaje en que se consulta sobre el interés o no en participar de la misma. El organizador no tiene permitido etiquetar en este mensaje a ningún agente que haya reportado previamente o vacaciones que lo absuelvan de la salida en cuestión. Asimismo se aclara que los Agtes. Notario (en días hábiles) y Addesi tampoco deben ser etiquetados por las razones que son de público conocimiento.
     Asimismo, <br>
     <b>Penalización:</b> 2 (dos) días por cada agente etiquetado indebidamente.
   </li>
     <li><p align="justify">  
-    <b>Artículo 8°</b>.- El Anexo 4° (Faltas de Ortografía) tiene total validez y vigencia. Las penalizaciones que en él se definen serán tomadas en cuenta de la misma forma que las enumeradas en estos artículos.
+    <b>Artículo 8°</b>. Se agrega el nuevo Anexo 4º (Control de toxicidad y ambiente apto). El mismo consta de total vigencia.
   </li>
   <li><p align="justify">  
     <b>Artículo 9°</b>.- La Administración tiene la potestad de actuar de oficio (penalizar a un agente sin que éste haya incumplido una de las reglas enunciadas en este documento) siempre que lo considere necesario. Cada vez que La Administración decida actuar de oficio, evaluará si la situación en cuestión amerita la creación de una nueva regla, con el fin de minimizar la cantidad de ocasiones en que este artículo deba aplicarse.
   </li>
   </li>
     <li><p align="justify">  
-    <b>Artículo 10°</b>.- El Anexo 6° (Control de Presentismo) tiene total validez y vigencia. Las penalizaciones que en él se definen serán tomadas en cuenta de la misma forma que las enumeradas en estos artículos.
+    <b>Artículo 10°</b>.- El Anexo 6° (Datos Bancarios) se agrega a este documento, en el mismo se detallan los datos bancarios de todos los Agtes. del grupo con el fin de agilizar pagos y de minimizar problemas relacionados con el cambio.
   </li>
   <li><p align="justify">  
     <b>Artículo 11°</b>.- Queda terminantemente prohibido el uso de "lenguaje inclusivo" ya sea en sus variantes utilizando la letra "E" o la letra "X". Se exceptúan los casos catalogados como broma. La Administración evaluará cada caso apropiadamente y lo catalogará como broma o como uso adrede.<br>
@@ -72,7 +72,7 @@ En la Ciudad Autónoma de Buenos Aires, a los 06 días del mes de Junio del año
     El <b>Artículo 4</b> no tiene efecto si el agente en cuestión sufre un problema familiar o de salud. Esta excepción se aplicará bajo el criterio de La Administración, que evaluará cada caso apropiadamente.
   </li>
   <li><p align="justify">
-    Los agentes poseen inmunidad en el día de su cumpleaños.
+    Los agentes poseen inmunidad en el día de su cumpleaños, ademas de que seran saludados afectuosamente por los administradores.
   </li>
 </ol>
 
@@ -102,7 +102,7 @@ A continuación se detallan las fechas de cumpleaños de los agentes a modo de i
 ## ANEXO 2º - Integrantes de La Administración y colaboradores
 
 <p align="justify">
-Desígnase como Admins Supremos a los Sres. Yujra Tambo, Eduardo Braian - DNI 41802987 y Rabahia Sergio Mathias - DNI 40136101.<br>
+Desígnase como Admins o sus excelencias a los Sres. Vera, Santiago Raul - DNI 39627001 y Notario, Matias Nicolas - DNI 39273324 .<br>
 Desígnase como colaborador en la redacción tanto del presente documento como de escritos futuros al Sr. Albacetti Mandrillo, Matías Nicolás - DNI 40129244.
 
 ## ANEXO 3º - Sobrenombres de los agentes
@@ -142,10 +142,6 @@ A continuación se detallan los sobrenombres (apodos, alias) oficiales que La Ad
 <tr>
   <td>Scapusio, Gianfranco</td>
   <td>“Cachu”</td>
-</tr>
-<tr>
-  <td>Corsi, Julian</td>
-  <td>“epdc”</td>
 </tr>  
 </table>
 
@@ -155,47 +151,11 @@ A continuación se detallan los sobrenombres (apodos, alias) oficiales que La Ad
 Las referencias ambiguas hacia los agentes llamados Matías se resolverán empleando los sobrenombres oficiales de los agentes “Ferrero Vilas, Matías Gabriel” y “Notario, Matías Nicolás”.
 Las referencias ambiguas hacia los agentes llamados Lucas se resolverán empleando los sobrenombres oficiales del agente “Simunovich, Lucas Martín”
 
-## ANEXO 4° - Faltas de ortografía
+## ANEXO 4° - Control de toxicidad y ambiente apto
 
 <p align="justify">
-Se publica el presente anexo con el fin de minimizar la cantidad de faltas de ortografía en los mensajes enviados por los agentes.<br>
-Se llevará un conteo de las faltas graves de ortografía cometidas por los agentes y se penalizará a los agentes que hayan acumulado 4 (cuatro) faltas.<br>
+Con el fin de garantizar un ambiente sano para todos los agentes del grupo, se castigará a las personas que tengan un comportamiento agresivo, innecesariamente tóxico o indebido para con otro(s) agente(s). Cada incidencia será considerada un "Strike": los dos primeros strikes serán penalizados con una advertencia; el tercer strike será penalizado con la expulsión del grupo por un lapso de 3 (tres) días. Dichos strikes se reiniciarán luego de la penalización o al iniciar un nuevo mes, lo que primero ocurra. Cabe destacar que dicha penalización puede ser afectada por la regla de reincidencias.
 
-#### Discriminación de faltas
-
-No se consideran faltas graves:
-
-<ul>
-  <li>Omisión de tildes.
-  <li>Omisión de mayúsculas.
-  <li>Abreviaturas. Ejemplos: "q" para "que", "lpm" para "la puta madre".
-</ul>
-
-Se consideran faltas graves:
-
-<ul>
-  <li>Utilización de letras equivocadas. Ejemplos: "concideran", "grabes".
-  <li>Redacciones erróneas. Ejemplos: "va a ser falta carbón" en lugar de "va a hacer falta carbón", "ahí descuento en BK" en lugar de "hay descuento en BK"
-  <li>Textos que por su carencia de signos de puntuación sean confusos o de difícil comprensión.
-</ul>
-
-La decisión final siempre estará a cargo de La Administración.
-
-#### Conteo de faltas
-
-<p align="justify">
-Se contará con un mensaje titulado con el hashtag #FaltasDeOrtografía en el cual se contarán las faltas acumuladas por los agentes. El mismo sólo podrá ser actualizado por los miembros de La Administración o sus colaboradores designados en este documento. La sintaxis del mensaje respetará la utilizada en el siguiente ejemplo:
-
-&FaltasDeOrtografía<br>
-Gabi: 2/4<br>
-Nico: 3/4<br>
-Lucas: 1/4<br>
-
-El contador se reiniciará al cambiar el año en curso.
-
-#### Penalizaciones
-
-Al llegar a las 4 (cuatro) faltas se penalizará al agente en cuestión con 1 (uno) día de expulsión. Si un agente resulta penalizado 3 (tres) veces por faltas ortográficas, al día de expulsión correspondiente se le agregarán 3 (tres) días por reiteración.
 
 ## ANEXO 5° - Solicitud de Revisión/Creación de Reglas
 
@@ -251,10 +211,10 @@ Pertenecer al Grupo Larrata implica que el agente en cuestión acepta y respetar
     <td><img src="Firma Rabahia, Sergio.png" width=176 height=90>
   </tr>
   <tr>
-    <td>Yujra Tambo, Eduardo Braian
-    <td>Rabahia, Sergio Mathias
+    <td>Vera, Santiago
+    <td>Notario, Matias Nicolas
   </tr>
 </table>
 
 <p align="center">
-  Administración M&E<br><b>Haciendo lo que hay que hacer</b>
+  Administración V&M<br><b>Trabajando duro para un mejor futuro</b>
