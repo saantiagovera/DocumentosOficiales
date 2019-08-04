@@ -72,7 +72,7 @@ En la Ciudad Autónoma de Buenos Aires, al cuarto dia del mes de Agosto del año
     El <b>Artículo 4</b> no tiene efecto si el agente en cuestión sufre un problema familiar o de salud. Esta excepción se aplicará bajo el criterio de La Administración, que evaluará cada caso apropiadamente.
   </li>
   <li><p align="justify">
-    Los agentes poseen inmunidad en el día de su cumpleaños.
+    Los agentes poseen inmunidad en el día de su cumpleaños, ademas de que seran saludados afectuosamente por los administradores.
   </li>
 </ol>
 
