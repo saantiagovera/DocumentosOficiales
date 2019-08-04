@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width=158 height=218><br>
+  <img src="logo2.jpg" width=158 height=218><br>
   Larrata 🐀 <br>
   “2019 - Año del Cambio”<br><br>
 
