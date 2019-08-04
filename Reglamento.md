@@ -9,13 +9,13 @@
 </p>
 <br>
 <p align="justify">
-En la Ciudad Autónoma de Buenos Aires, al cuarto dia del mes de Agosto del año 2019, la Administración V&M -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 denominado "El grupo", agregando cambios y aclaraciones a las reglas existentes y sus correspondientes penalizaciones en caso de incumpliento, así como también nuevas reglas.
+En la Ciudad Autónoma de Buenos Aires, al cuarto día del mes de Agosto del año 2019, la Administración SyM -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 denominado "El grupo", agregando cambios y aclaraciones a las reglas existentes y sus correspondientes penalizaciones en caso de incumpliento, así como también nuevas reglas.
 
 ## Reglas
 
 <ul>
   <li><p align="justify">  
-    <b>Artículo 1°</b>.- El agente “Gatica, Gabriel”  - DNI 39.771.115  tendrá permitido subir un máximo de 7 contenidos multimedia (fotos o videos) cada 24 horas, de los cuales 3 (tres), como máximo, podrán ser videos.<br> <b>Penalización:</b> 2 (dos) días por cada contenido multimedia que haya excedido el límite susodicho.
+        <b>Artículo 1°</b>.- El agente “Gatica, Gabriel”  - DNI 39.771.115  tendrá permitido subir un máximo de 7 contenidos multimedia (fotos o videos) cada 24 horas, de los cuales 3 (tres), como máximo, podrán ser videos.<br> <b>Penalización:</b> 2 (dos) días por cada contenido multimedia que haya excedido el límite susodicho.
   </li>
   <li><p align="justify">
     <b>Artículo 2°</b>.- Está terminantemente prohibido publicar contenido que contenga o haga referencia a “Chávez, Jeremías” ya sea parcial o totalmente.<br>
@@ -23,14 +23,14 @@ En la Ciudad Autónoma de Buenos Aires, al cuarto dia del mes de Agosto del año
   </li>
   <li><p align="justify">  
     <b>Artículo 3°</b>.- Al producirse la organización de una salida, cualquier agente que se haya notificado fehacientemente del mensaje (lo haya visto, corroborado por la app de mensajería) en el cual se consulta quiénes son los interesados en concurrir a dicha reunión y no lo responda (confirmando si concurrirá o no) será expulsado del grupo. El plazo del que la persona en cuestión dispone para contestar será (en caso de que el organizador no coloque un plazo específico): desde la publicación de la propuesta hasta 90 minutos antes del comienzo de la salida.<br>
- <b>Penalización:</b> 4 (cuatro) días para todos, sin importar religion y/o ideologia politica.
+ <b>Penalización:</b> 4 (cuatro) días para todos, sin importar religión y/o ideología política.
   </li>
   <li><p align="justify">  
     <b>Artículo 4°</b>.- Cualquier agente que confirmase su asistencia a una salida y posteriormente no concurra a la misma, será expulsado del grupo.<br>
  <b>Penalización:</b> 4 (cuatro) días en caso de haber avisado de su ausencia 90 minutos antes de la salida (o anteriormente al horario determinado por el organizador), 7 (siete) días en caso de haber avisado con una antelación menor y 14 (catorce) días en caso de no haber avisado.
   </li>
   <li><p align="justify">  
-    <b>Artículo 5°</b>.- Los administradores elegidos por voto popular, deberan acatarse a respetar las reglas.
+    <b>Artículo 5°</b>.- Los administradores elegidos por voto popular, deberán acatarse a respetar las reglas.
   </li>
   <li><p align="justify">  
     <b>Artículo 6°</b>.- Cualquier ambigüedad presentada al debatir el incumplimiento de algún artículo y/o excepción será resuelta por La Administración.
@@ -61,8 +61,12 @@ En la Ciudad Autónoma de Buenos Aires, al cuarto dia del mes de Agosto del año
     <b>Artículo 13°</b>.- El Anexo 8° (Primero, la democracia) tiene total validez y vigencia, en dicho anexo se describen sus condiciones.
   </li>
   <li><p align="justify">  
-  <b>Artículo 14°</b>.- Será mérito de sanción quienes insulten o realicen injurias hacia el grupo alternativo "Casino Go", el cual a partir del dia 04/08/2019 es oficialmente asociado al grupo principal "Larrata". Se aplicara tal como en el <b>Artículo 11°</b> lo siguiente: "Se exceptúan los casos catalogados como broma. La Administración evaluará cada caso apropiadamente y lo catalogará como broma o como uso adrede" <br>
+  <b>Artículo 14°</b>.- Será mérito de sanción quienes insulten o realicen injurias hacia el grupo alternativo "Casino Go", el cual a partir del día 04/08/2019 es oficialmente asociado al grupo principal "Larrata". Se aplicara tal como en el <b>Artículo 11°</b> lo siguiente: "Se exceptúan los casos catalogados como broma. La Administración evaluará cada caso apropiadamente y lo catalogará como broma o como uso adrede. 
+<br>
    <b>Penalización:</b> Pena de hasta 3 (tres) días por cada insulto dependiendo la gravedad del mismo.
+  </li>
+  <li><p align="justify">  
+  <b>Artículo 14° Bis </b>.- De igual manera, relacionado al <b>Artículo 14°</b> , será de sanción la realización de salidas privadas sin informar al resto de integrantes del grupo principal. En caso de tener un motivo justificable, el cual se tendrá que informar a los administradores de manera privada si desean, se decidirá entre los dos administradores a cargo, que acción se tomara para dicho acto.
    </li>
 </ul>
 
@@ -70,10 +74,10 @@ En la Ciudad Autónoma de Buenos Aires, al cuarto dia del mes de Agosto del año
 
 <ol>
   <li><p align="justify">
-    El agente "Gatica, Gabriel" podrá exceder los límites establecidos en el <b>Artículo 1</b> si el contenido a publicar fuese de suma importancia para los integrantes del grupo. Se considerará contenido de suma importancia a aquella información que sea indiscutiblemente relevante para la totalidad de los integrantes del grupo y el criterio final para determinar si un contenido es de suma importancia o no será el de La Administración. En el caso de que el agente "Gatica, Gabriel" solicite post facto (luego de haber compartido el contenido multimedia) que se aplique esta excepción  y La Administración rechace su solicitud, la penalización será el doble de lo dispuesto por el artículo en cuestión.
+ El agente "Gatica, Gabriel" podrá exceder los límites establecidos en el <b>Artículo 1</b> si el contenido a publicar fuese de suma importancia para los integrantes del grupo. Se considerará contenido de suma importancia a aquella información que sea indiscutiblemente relevante para la totalidad de los integrantes del grupo y el criterio final para determinar si un contenido es de suma importancia o no será el de La Administración. En el caso de que el agente "Gatica, Gabriel" solicite post facto (luego de haber compartido el contenido multimedia) que se aplique esta excepción y La Administración rechace su solicitud, la penalización será el doble de lo dispuesto por el artículo en cuestión.
   </li>
   <li><p align="justify">
-    El <b>Artículo 3</b> no se aplica si el agente en cuestión se encuentra de vacaciones; un agente se considera  "de vacaciones" únicamente si se encuentra fuera de su propiedad por un período de al menos 2 días y además notificó en el grupo el período indicando la fecha de inicio y la fecha de finalización del mismo. La forma de notificar los períodos de vacaciones es antecediendo el símbolo '&' a la palabra “Vacaciones” (&Vacaciones) a modo de facilitar la búsqueda del mensaje en caso de ser necesario recurrir al mismo. (Ej. "&Vacaciones 01/01/19 -15/01/19").
+    El <b>Artículo 3</b> no se aplica si el agente en cuestión se encuentra de vacaciones; un agente se considera “de vacaciones" únicamente si se encuentra fuera de su propiedad por un período de al menos 2 días y además notificó en el grupo el período indicando la fecha de inicio y la fecha de finalización del mismo. La forma de notificar los períodos de vacaciones es antecediendo el símbolo '&' a la palabra “Vacaciones” (&Vacaciones) a modo de facilitar la búsqueda del mensaje en caso de ser necesario recurrir al mismo. (Ej. "&Vacaciones 01/01/19 -15/01/19").
   </li>
   <li><p align="justify">
     El <b>Artículo 4</b> no tiene efecto si el agente en cuestión sufre un problema familiar o de salud. Esta excepción se aplicará bajo el criterio de La Administración, que evaluará cada caso apropiadamente.
@@ -86,7 +90,7 @@ En la Ciudad Autónoma de Buenos Aires, al cuarto dia del mes de Agosto del año
 
 ## ANEXO 1º - Fechas de cumpleaños
 <p align="justify">
-A continuación se detallan las fechas de cumpleaños de los agentes a modo de información pública y de conocimiento popular.
+A continuación, se detallan las fechas de cumpleaños de los agentes a modo de información pública y de conocimiento popular.
 <ul>
 <li>7 Enero - Scapusio, Gianfranco
 <li>30 Enero - Albacetti Mandrillo, Matías Nicolás
@@ -109,13 +113,13 @@ A continuación se detallan las fechas de cumpleaños de los agentes a modo de i
 ## ANEXO 2º - Integrantes de La Administración y colaboradores
 
 <p align="justify">
-Desígnase como Admins o sus excelencias a los Sres. Vera, Santiago Raul - DNI 39627001 y Notario, Matias Nicolas - DNI 39273324 .<br>
-Desígnase como colaborador en la redacción tanto del presente documento como de escritos futuros al Sr. Albacetti Mandrillo, Matías Nicolás - DNI 40129244.
+Designase como Admins o sus excelencias a los Sres. Vera, Santiago Raúl - DNI 39627001 y Notario, Matias Nicolás - DNI 39273324 .<br>
+Designase como colaborador en la redacción tanto del presente documento como de escritos futuros al Sr. Albacetti Mandrillo, Matías Nicolás - DNI 40129244.
 
 ## ANEXO 3º - Sobrenombres de los agentes
 
 <p align="justify">
-A continuación se detallan los sobrenombres (apodos, alias) oficiales que La Administración reconoce como válidos para hacer referencia a ciertos agentes. No se incluyen en este anexo sobrenombres que consisten en apócopes obvios del nombre de un agente (ejemplos: Mati para Matías, Nico para Nicolás).
+A continuación, se detallan los sobrenombres (apodos, alias) oficiales que La Administración reconoce como válidos para hacer referencia a ciertos agentes. No se incluyen en este anexo sobrenombres que consisten en apócopes obvios del nombre de un agente (ejemplos: Mati para Matías, Nico para Nicolás).
 
 <table>
 <tr>
@@ -167,7 +171,7 @@ Con el fin de garantizar un ambiente sano para todos los agentes del grupo, se c
 ## ANEXO 5° - Solicitud de Revisión/Creación de Reglas
 
 <p align="justify">
-Cualquier agente perteneciente a Larrata posee plena facultdad de solicitar modificaciones a las reglas enunciadas en este documento o sugerir la creación de reglas/excepciones nuevas. Dichas solicitudes se podran efectuar a través de los issues del presente repositorio. LINK: https://github.com/matiasalbacetti/LarrataFiles/issues <br>
+Cualquier agente perteneciente a Larrata posee plena facultad de solicitar modificaciones a las reglas enunciadas en este documento o sugerir la creación de reglas/excepciones nuevas. Dichas solicitudes se podrán efectuar a través de los issues del presente repositorio. LINK: https://github.com/matiasalbacetti/LarrataFiles/issues <br>
 La Administración evaluará apropiadamente cada solicitud y responderá a las mismas en el mismo issue.
   
 #### Consideraciones
@@ -183,9 +187,9 @@ La Administración evaluará apropiadamente cada solicitud y responderá a las m
 #### Consideraciones
 
 <ul>
-  <li><p align="justify">Los agentes no seran sancionados cuando sus ausencias a salidas se deban a:
+  <li><p align="justify">Los agentes no serán sancionados cuando sus ausencias a salidas se deban a:
     <ul>
-      <li>Vacaciones. Debe haber sido expresado claramente que es éste el motivo de la ausencia.</li>
+      <li>Vacaciones. Debe haber sido expresado claramente que es éste el motivo de la ausencia. </li>
       <li>Problemas familiares.</li>
       <li>Problemas de salud.</li>
     </ul>
@@ -196,7 +200,7 @@ La Administración evaluará apropiadamente cada solicitud y responderá a las m
 ## ANEXO 7° - Sanciones por reincidencias.
 
 <p align="justify">
-La Administración, con el fin de premiar el comportamiento ejemplar y castigar las conductas inadecuadas, pone en vigencia el Sistema de Reicidencias. Los agentes que cometan 3 (tres) o más faltas dentro de un lapso de 30 días, serán sancionados con el doble de días de penalización (en la 3ra. sanción y sucesivas) durante lo que quede por transcurrir del mes corriente y durante el mes siguiente. Ejemplo: si el agente omite 3 veces confirmar su asistencia a una salida, las primeras 2 veces será sancionado con 4 (cuatro) días de expulsión, pero a la 3ra. vez se lo sancionará con 8 (ocho) días de expulsión. 
+La Administración, con el fin de premiar el comportamiento ejemplar y castigar las conductas inadecuadas, pone en vigencia el Sistema de Reincidencias. Los agentes que cometan 3 (tres) o más faltas dentro de un lapso de 30 días, serán sancionados con el doble de días de penalización (en la 3ra. sanción y sucesivas) durante lo que quede por transcurrir del mes corriente y durante el mes siguiente. Ejemplo: si el agente omite 3 veces confirmar su asistencia a una salida, las 2 primeras veces será sancionado con 4 (cuatro) días de expulsión, pero a la 3ra. vez se lo sancionará con 8 (ocho) días de expulsión. 
   
 #### Consideraciones
 
@@ -208,7 +212,7 @@ La Administración, con el fin de premiar el comportamiento ejemplar y castigar 
   ## ANEXO 8° - Primero, la democracia
 
 <p align="justify">
-Los administradores tienen plazo de permanencia de 6 meses (1/2 al 1/8 y asi), con posibilidad de reelecion por otro periodo solamente. Además, en caso de que peligre o que los administradores no cumplan con sus funciones, los agentes (siempre y cuando tengan mas del 50% de los votos) podrán convocar a elecciones, las cuales se deberán realizar en un plazo no mayor a 1 mes luego de la solicitud. La fórmula ganadora, se encargará del grupo hasta cumplir el plazo que dejo vacante la administración anterior.
+Los administradores tienen plazo de permanencia de 6 meses (1/2 al 1/8 y así), con posibilidad de reelección por otro periodo solamente. Además, en caso de que peligre o que los administradores no cumplan con sus funciones, los agentes (siempre y cuando tengan más del 50% de los votos) podrán convocar a elecciones, las cuales se deberán realizar en un plazo no mayor a 1 mes luego de la solicitud. La fórmula ganadora, se encargará del grupo hasta cumplir el plazo que dejo vacante la administración anterior.
 
 ## Vigencia y firma
 
@@ -223,7 +227,7 @@ Pertenecer al Grupo Larrata implica que el agente en cuestión acepta y respetar
   </tr>
   <tr>
     <td>Vera, Santiago
-    <td>Notario, Matias Nicolas
+    <td>Notario, Matias Nicolás
   </tr>
 </table>
 
