@@ -27,7 +27,7 @@ En la Ciudad Autónoma de Buenos Aires, al cuarto día del mes de Agosto del añ
   </li>
   <li><p align="justify">  
     <b>Artículo 4°</b>.- Cualquier agente que confirmase su asistencia a una salida y posteriormente no concurra a la misma, será expulsado del grupo.<br>
- <b>Penalización:</b> 4 (cuatro) días en caso de haber avisado de su ausencia 90 minutos antes de la salida (o anteriormente al horario determinado por el organizador), 7 (siete) días en caso de haber avisado con una antelación menor y 14 (catorce) días en caso de no haber avisado.
+ <b>Penalización:</b> 2 (dos) días en caso de haber avisado de su ausencia 90 minutos antes de la salida (o anteriormente al horario determinado por el organizador), 4 (cuatro) días en caso de haber avisado con una antelación menor y 7 (siete) días en caso de no haber avisado.
   </li>
   <li><p align="justify">  
     <b>Artículo 5°</b>.- Los administradores elegidos por voto popular, deberán acatarse a respetar las reglas.
@@ -61,7 +61,7 @@ En la Ciudad Autónoma de Buenos Aires, al cuarto día del mes de Agosto del añ
     <b>Artículo 13°</b>.- El Anexo 8° (Primero, la democracia) tiene total validez y vigencia, en dicho anexo se describen sus condiciones.
   </li>
   <li><p align="justify">  
-  <b>Artículo 14°</b>.- Será mérito de sanción quienes insulten o realicen injurias hacia el grupo alternativo "Casino Go", el cual a partir del día 04/08/2019 es oficialmente asociado al grupo principal "Larrata". Se aplicara tal como en el <b>Artículo 11°</b> lo siguiente: "Se exceptúan los casos catalogados como broma. La Administración evaluará cada caso apropiadamente y lo catalogará como broma o como uso adrede. 
+  <b>Artículo 14°</b>.- Será mérito de sanción quienes insulten o realicen injurias hacia el grupo alternativo "Casino Go", el cual a partir del día 04/08/2019 es oficialmente asociado al grupo principal "Larrata". De igual manera, el "aviso" de asistencia a las salidas o asuntos importantes oficiales no podrán tenerse en cuenta si se notifican en dicho grupo. Se aplicara tal como en el <b>Artículo 11°</b> lo siguiente: "Se exceptúan los casos catalogados como broma. La Administración evaluará cada caso apropiadamente y lo catalogará como broma o como uso adrede. 
 <br>
    <b>Penalización:</b> Pena de hasta 3 (tres) días por cada insulto dependiendo la gravedad del mismo.
   </li>
@@ -229,7 +229,7 @@ Pertenecer al Grupo Larrata implica que el agente en cuestión acepta y respetar
     <td>Vera, Santiago
     <td>Notario, Matias Nicolás
   </tr>
-</table>
+</table> 
 
 <p align="center">
   Administración S&M<br><b>Trabajando duro para un mejor futuro</b>
