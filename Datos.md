@@ -40,7 +40,7 @@
                 <td>0290014810000036328243</td><!--CBU-->
             </tr>
             <tr>
-                <td>-</td><!--DNI-->
+                <td>40.241.618</td><!--DNI-->
                 <td>Ramis, Nicolás Martin</td><!--Agente-->
                 <td>03/03</td><!--fecha-->
                 <td>nicoskap99@gmail.com</td><!--mail-->
