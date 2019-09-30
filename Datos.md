@@ -107,7 +107,7 @@
                 <td>Noti, Tego</td><!--sobreNombre-->
                 <td>Matias-Notario</td><!--alias-->
                 <td>-</td><!--todopago-->
-                <td>00709990 30004124731120</td><!--CBU-->
+                <td>0070999030004124731120</td><!--CBU-->
             </tr>
             <tr>
                 <td>-</td><!--DNI-->
