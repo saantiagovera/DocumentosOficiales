@@ -10,7 +10,7 @@
               <th>CBU</th>
             </tr>
             <tr>
-                <td>-</td><!--DNI-->
+                <td>40.129.550</td><!--DNI-->
                 <td>Scapusio, Gianfranco</td><!--Agente-->
                 <td>07/01</td><!--fecha-->
                 <td>gian.scapusio@gmail.com</td><!--mail-->
