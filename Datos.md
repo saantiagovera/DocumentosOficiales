@@ -80,7 +80,7 @@
                 <td>0070024530004016556523</td><!--CBU-->
             </tr>
             <tr>
-                <td>-</td><!--DNI-->
+                <td>39.627.001</td><!--DNI-->
                 <td>Vera, Santiago Raúl</td><!--Agente-->
                 <td>01/05</td><!--fecha-->
                 <td>saantiagovera@icloud.com</td><!--mail-->
@@ -110,7 +110,7 @@
                 <td>0070999030004124731120</td><!--CBU-->
             </tr>
             <tr>
-                <td>-</td><!--DNI-->
+                <td>39.655.771</td><!--DNI-->
                 <td>Cuomo, Daniel Hernán</td><!--Agente-->
                 <td>24/08</td><!--fecha-->
                 <td>dhc24896@gmail.com</td><!--mail-->
