@@ -60,7 +60,7 @@
                 <td>0070020730004039818727</td><!--CBU-->
             </tr>
             <tr>
-                <td>-</td><!--DNI-->
+                <td>40.396.432</td><!--DNI-->
                 <td>Addesi, Lucas Nahuel</td><!--Agente-->
                 <td>26/04</td><!--fecha-->
                 <td>Ln_casla@hotmail.com</td><!--mail-->
@@ -70,7 +70,7 @@
                 <td>-</td><!--CBU-->
             </tr>
             <tr>
-                <td>-</td><!--DNI-->
+                <td>40.393.078</td><!--DNI-->
                 <td>Simunovich, Lucas Martin</td><!--Agente-->
                 <td>29/04</td><!--fecha-->
                 <td>lsimunovich@icloud.com</td><!--mail-->
@@ -150,7 +150,7 @@
                 <td>0720087888000044912668</td><!--CBU-->
             </tr>
             <tr>
-                <td>-</td><!--DNI-->
+                <td>39.913.543</td><!--DNI-->
                 <td>Méndez, Franco Martín</td><!--Agente-->
                 <td>12/10</td><!--fecha-->
                 <td>francomartinmendez@hotmail.com</td><!--mail-->
