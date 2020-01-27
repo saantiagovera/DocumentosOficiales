@@ -135,7 +135,7 @@
                 <td>03/09</td><!--fecha-->
                 <td>matigfv@gmail.com</td><!--mail-->
                 <td>Ferrer</td><!--sobreNombre-->
-                <td>ALAMO.MES.CAUSA</td><!--alias-->
+                <td>MFERREROVILAS</td><!--alias-->
                 <td>-</td><!--todopago-->
                 <td>0720168088000040305668</td><!--CBU-->
             </tr>
