@@ -1,7 +1,7 @@
 <p align="center">
   <img src="logo2.jpg" width=158 height=218><br>
   Larrata 🐀 <br>
-  “2019 - Año del Cambio”<br><br>
+  “2020”<br><br>
 
   <b>
   Reglamento y Normas de Convivencia<br>
@@ -9,7 +9,7 @@
 </p>
 <br>
 <p align="justify">
-En la Ciudad Autónoma de Buenos Aires, al cuarto día del mes de Agosto del año 2019, la Administración SyM -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 denominado "El grupo", agregando cambios y aclaraciones a las reglas existentes y sus correspondientes penalizaciones en caso de incumpliento, así como también nuevas reglas.
+En la Ciudad Autónoma de Buenos Aires, al segundo día del mes de febrero del año 2020, la Administración SyM -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 -de ahora en adelante "El grupo"-.
 
 ## Reglas
 
@@ -22,12 +22,12 @@ En la Ciudad Autónoma de Buenos Aires, al cuarto día del mes de Agosto del añ
  <b>Penalización:</b> 3 (tres) días.
   </li>
   <li><p align="justify">  
-    <b>Artículo 3°</b>.- Al producirse la organización de una salida, cualquier agente que se haya notificado fehacientemente del mensaje (lo haya visto, corroborado por la app de mensajería) en el cual se consulta quiénes son los interesados en concurrir a dicha reunión y no lo responda (confirmando si concurrirá o no) será expulsado del grupo. El plazo del que la persona en cuestión dispone para contestar será (en caso de que el organizador no coloque un plazo específico): desde la publicación de la propuesta hasta 90 minutos antes del comienzo de la salida.<br>
+    <b>Artículo 3°</b>.- Al producirse la organización de una salida, cualquier agente que se haya notificado fehacientemente del mensaje (lo haya visto, corroborado por la app de mensajería) en el cual se consulta quiénes son los interesados en concurrir a dicha reunión y no lo responda (confirmando si concurrirá o no) será expulsado del grupo. El plazo del que la persona en cuestión dispone para contestar será el que el organizador disponga o, en caso de no ser dispuesto por el organizador, desde la publicación de la propuesta hasta 90 minutos antes del comienzo de la salida.<br>
  <b>Penalización:</b> 4 (cuatro) días para todos, sin importar religión y/o ideología política.
   </li>
   <li><p align="justify">  
     <b>Artículo 4°</b>.- Cualquier agente que confirmase su asistencia a una salida y posteriormente no concurra a la misma, será expulsado del grupo.<br>
- <b>Penalización:</b> 2 (dos) días en caso de haber avisado de su ausencia 90 minutos antes de la salida (o anteriormente al horario determinado por el organizador), 4 (cuatro) días en caso de haber avisado con una antelación menor y 7 (siete) días en caso de no haber avisado.
+ <b>Penalización:</b> 2 (dos) días en caso de haber avisado de su ausencia antes de cumplido el plazo de confirmación de la salida, 4 (cuatro) días en caso de haber avisado con una antelación menor y 7 (siete) días en caso de no haber avisado.
   </li>
   <li><p align="justify">  
     <b>Artículo 5°</b>.- Los administradores elegidos por voto popular, deberán acatarse a respetar las reglas.
@@ -36,7 +36,7 @@ En la Ciudad Autónoma de Buenos Aires, al cuarto día del mes de Agosto del añ
     <b>Artículo 6°</b>.- Cualquier ambigüedad presentada al debatir el incumplimiento de algún artículo y/o excepción será resuelta por La Administración.
   </li>
   <li><p align="justify">  
-    <b>Artículo 7°</b>.- Es un derecho del organizador de una salida enviar un mensaje etiquetando a los agentes que hayan ignorado (en la jerga popular "clavado visto") el mensaje en que se consulta sobre el interés o no en participar de la misma. El organizador no tiene permitido etiquetar en este mensaje a ningún agente que haya reportado previamente o vacaciones que lo absuelvan de la salida en cuestión. Asimismo se aclara que los Agtes. Notario (en días hábiles) y Addesi tampoco deben ser etiquetados por las razones que son de público conocimiento.
+    <b>Artículo 7°</b>.- Es un derecho del organizador de una salida enviar un mensaje etiquetando a los agentes que hayan ignorado (en la jerga popular "clavado visto") el mensaje en que se consulta sobre el interés o no en participar de la misma. El organizador no tiene permitido etiquetar en este mensaje a ningún agente que haya reportado previamente vacaciones que lo absuelvan de la salida en cuestión. Asimismo se aclara que los Agtes. Notario (en días hábiles) y Addesi tampoco deben ser etiquetados por las razones que son de público conocimiento.
     Asimismo, <br>
     <b>Penalización:</b> 2 (dos) días por cada agente etiquetado indebidamente.
   </li>
@@ -77,7 +77,7 @@ En la Ciudad Autónoma de Buenos Aires, al cuarto día del mes de Agosto del añ
  El agente "Gatica, Gabriel" podrá exceder los límites establecidos en el <b>Artículo 1</b> si el contenido a publicar fuese de suma importancia para los integrantes del grupo. Se considerará contenido de suma importancia a aquella información que sea indiscutiblemente relevante para la totalidad de los integrantes del grupo y el criterio final para determinar si un contenido es de suma importancia o no será el de La Administración. En el caso de que el agente "Gatica, Gabriel" solicite post facto (luego de haber compartido el contenido multimedia) que se aplique esta excepción y La Administración rechace su solicitud, la penalización será el doble de lo dispuesto por el artículo en cuestión.
   </li>
   <li><p align="justify">
-    El <b>Artículo 3</b> no se aplica si el agente en cuestión se encuentra de vacaciones; un agente se considera “de vacaciones" únicamente si se encuentra fuera de su propiedad por un período de al menos 2 días y además notificó en el grupo el período indicando la fecha de inicio y la fecha de finalización del mismo. La forma de notificar los períodos de vacaciones es antecediendo el símbolo '&' a la palabra “Vacaciones” (&Vacaciones) a modo de facilitar la búsqueda del mensaje en caso de ser necesario recurrir al mismo. (Ej. "&Vacaciones 01/01/19 -15/01/19").
+    El <b>Artículo 3</b> no se aplica si el agente en cuestión se encuentra de vacaciones; un agente se considera “de vacaciones" únicamente si se encuentra a más de 40 kilómetros de los límites de la Ciudad Autónoma de Buenos Aires por un período de al menos 2 días y además notificó en el grupo el período indicando la fecha de inicio y la fecha de finalización del mismo. La forma de notificar los períodos de vacaciones es antecediendo el símbolo '&' a la palabra “Vacaciones” (&Vacaciones) a modo de facilitar la búsqueda del mensaje en caso de ser necesario recurrir al mismo. (Ej. "&Vacaciones 01/01/19 -15/01/19").
   </li>
   <li><p align="justify">
     El <b>Artículo 4</b> no tiene efecto si el agente en cuestión sufre un problema familiar o de salud. Esta excepción se aplicará bajo el criterio de La Administración, que evaluará cada caso apropiadamente.
@@ -113,8 +113,7 @@ A continuación, se detallan las fechas de cumpleaños de los agentes a modo de 
 ## ANEXO 2º - Integrantes de La Administración y colaboradores
 
 <p align="justify">
-Designase como Admins o sus excelencias a los Sres. Vera, Santiago Raúl - DNI 39627001 y Notario, Matias Nicolás - DNI 39273324 .<br>
-Designase como colaborador en la redacción tanto del presente documento como de escritos futuros al Sr. Albacetti Mandrillo, Matías Nicolás - DNI 40129244.
+Designese como administradores de "El Grupo" a los Sres. Vera, Santiago Raúl - DNI 39627001 y Albacetti Mandrillo, Matias Nicolás - DNI 40129244.<br>
 
 ## ANEXO 3º - Sobrenombres de los agentes
 
@@ -212,7 +211,7 @@ La Administración, con el fin de premiar el comportamiento ejemplar y castigar 
   ## ANEXO 8° - Primero, la democracia
 
 <p align="justify">
-Los administradores tienen plazo de permanencia de 6 meses (1/2 al 1/8 y así), con posibilidad de reelección por otro periodo solamente. Además, en caso de que peligre o que los administradores no cumplan con sus funciones, los agentes (siempre y cuando tengan más del 50% de los votos) podrán convocar a elecciones, las cuales se deberán realizar en un plazo no mayor a 1 mes luego de la solicitud. La fórmula ganadora, se encargará del grupo hasta cumplir el plazo que dejo vacante la administración anterior.
+Los mandatos de los administradores tienen una duración de 6 meses, con posibilidad de reelección por otro periodo solamente. Adicionalmente, en caso de que la democracia peligre o que los administradores no cumplan con sus funciones, los agentes (siempre y cuando tengan más del 50% de los votos) podrán convocar a elecciones, las cuales se deberán realizar en un plazo no mayor a 1 mes luego de la solicitud. La fórmula ganadora, se encargará del grupo hasta cumplir el plazo que dejo vacante la administración anterior.
 
 ## Vigencia y firma
 
@@ -223,11 +222,11 @@ Pertenecer al Grupo Larrata implica que el agente en cuestión acepta y respetar
 <table>
   <tr>
     <td><img src="Firma Temporal.png" width=176 height=90>
-    <td><img src="Firma Notario, Matías Nicolás.png" width=176 height=90>
+    <td><img src="Firma Albacetti Mandrillo, Matías Nicolás.png" width=176 height=90>
   </tr>
   <tr>
     <td>Vera, Santiago
-    <td>Notario, Matias Nicolás
+    <td>Albacetti Mandrillo, Matias Nicolás
   </tr>
 </table> 
 
