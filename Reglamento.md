@@ -222,7 +222,7 @@ Pertenecer al Grupo Larrata implica que el agente en cuestión acepta y respetar
 <table>
   <tr>
     <td><img src="Firma Temporal.png" width=176 height=90>
-    <td><img src="Firma Albacetti Mandrillo, Matías Nicolás.png" width=176 height=90>
+    <td><img src="firma Albacetti, Matías.png" width=176 height=90>
   </tr>
   <tr>
     <td>Vera, Santiago
