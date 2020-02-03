@@ -1,7 +1,7 @@
 <p align="center">
   <img src="logo2.jpg" width=158 height=218><br>
-  Larrata 🐀 <br>
-  “2020”<br><br>
+  🐀 Larrata 🐀 <br>
+  2020<br><br>
 
   <b>
   Reglamento y Normas de Convivencia<br>
@@ -25,6 +25,9 @@ En la Ciudad Autónoma de Buenos Aires, al segundo día del mes de febrero del a
     <b>Artículo 3°</b>.- Al producirse la organización de una salida, cualquier agente que se haya notificado fehacientemente del mensaje (lo haya visto, corroborado por la app de mensajería) en el cual se consulta quiénes son los interesados en concurrir a dicha reunión y no lo responda (confirmando si concurrirá o no) será expulsado del grupo. El plazo del que la persona en cuestión dispone para contestar será el que el organizador disponga o, en caso de no ser dispuesto por el organizador, desde la publicación de la propuesta hasta 90 minutos antes del comienzo de la salida.<br>
  <b>Penalización:</b> 4 (cuatro) días para todos, sin importar religión y/o ideología política.
   </li>
+  <li><p align="justify">  
+    <b>Artículo 3° bis</b>.- Los agentes que deseen confirmar su asistencia a una salida propuesta, deben hacerlo respetando el formato de lista. El mismo es el de público conocimiento, se detalla a modo de ejemplificación:<br>1) Agente1<br>2) Agente2<br>3) Agente3<br>
+    <b>Penalización:</b> aquel agente que confirme su asistencia a una salida no respetando el formato establecido por este artículo, será penalizado con 1 (uno) día de expulsión. Los agentes gozan de 5 minutos de tolerancia desde emitida su confirmación en un formato incorrecto para corregir la misma y reenviarla en el formato correcto.
   <li><p align="justify">  
     <b>Artículo 4°</b>.- Cualquier agente que confirmase su asistencia a una salida y posteriormente no concurra a la misma, será expulsado del grupo.<br>
  <b>Penalización:</b> 2 (dos) días en caso de haber avisado de su ausencia antes de cumplido el plazo de confirmación de la salida, 4 (cuatro) días en caso de haber avisado con una antelación menor y 7 (siete) días en caso de no haber avisado.
@@ -60,14 +63,6 @@ En la Ciudad Autónoma de Buenos Aires, al segundo día del mes de febrero del a
   <li><p align="justify">  
     <b>Artículo 13°</b>.- El Anexo 8° (Primero, la democracia) tiene total validez y vigencia, en dicho anexo se describen sus condiciones.
   </li>
-  <li><p align="justify">  
-  <b>Artículo 14°</b>.- Será mérito de sanción quienes insulten o realicen injurias hacia el grupo alternativo "Casino Go", el cual a partir del día 04/08/2019 es oficialmente asociado al grupo principal "Larrata". De igual manera, el "aviso" de asistencia a las salidas o asuntos importantes oficiales no podrán tenerse en cuenta si se notifican en dicho grupo. Se aplicara tal como en el <b>Artículo 11°</b> lo siguiente: "Se exceptúan los casos catalogados como broma. La Administración evaluará cada caso apropiadamente y lo catalogará como broma o como uso adrede. 
-<br>
-   <b>Penalización:</b> Pena de hasta 3 (tres) días por cada insulto dependiendo la gravedad del mismo.
-  </li>
-  <li><p align="justify">  
-  <b>Artículo 14° Bis </b>.- De igual manera, relacionado al <b>Artículo 14°</b> , será de sanción la realización de salidas privadas sin informar al resto de integrantes del grupo principal. En caso de tener un motivo justificable, el cual se tendrá que informar a los administradores de manera privada si desean, se decidirá entre los dos administradores a cargo, que acción se tomara para dicho acto.
-   </li>
 </ul>
 
 ## Excepciones a las reglas
