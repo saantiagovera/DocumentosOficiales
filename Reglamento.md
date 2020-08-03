@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo2.jpg" width=158 height=218><br>
+  <img src="logo larrata.jpg" width=158 height=218><br>
   🐀 Larrata 🐀 <br>
   2020<br><br>
 
@@ -9,7 +9,7 @@
 </p>
 <br>
 <p align="justify">
-En la Ciudad Autónoma de Buenos Aires, al segundo día del mes de febrero del año 2020, la Administración SyM -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 -de ahora en adelante "El grupo"-.
+En la Ciudad Autónoma de Buenos Aires, al Tercer día del mes de Agosto del año 2020, la Administración MyM -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 -de ahora en adelante "El grupo"-.
 
 ## Reglas
 
@@ -108,7 +108,7 @@ A continuación, se detallan las fechas de cumpleaños de los agentes a modo de 
 ## ANEXO 2º - Integrantes de La Administración y colaboradores
 
 <p align="justify">
-Designese como administradores de "El Grupo" a los Sres. Vera, Santiago Raúl - DNI 39627001 y Albacetti Mandrillo, Matias Nicolás - DNI 40129244.<br>
+Designese como administradores de "El Grupo" a los Sres. Rabahia, Sergio Mathias - DNI 40136101 y Albacetti Mandrillo, Matias Nicolás - DNI 40129244.<br>
 
 ## ANEXO 3º - Sobrenombres de los agentes
 
@@ -216,14 +216,14 @@ Pertenecer al Grupo Larrata implica que el agente en cuestión acepta y respetar
 </p>
 <table>
   <tr>
-    <td><img src="Firma Temporal.png" width=176 height=90>
+    <td><img src="FirmaRabahia.png" width=176 height=90>
     <td><img src="firma Albacetti, Matías.png" width=176 height=90>
   </tr>
   <tr>
-    <td>Vera, Santiago
+    <td>Rabahia, Sergio Mathias
     <td>Albacetti Mandrillo, Matias Nicolás
   </tr>
 </table> 
 
 <p align="center">
-  Administración S&M<br><b>Trabajando duro para un mejor futuro</b>
+  Administración M&M<br><b>Trabajando duro para un mejor futuro</b>
