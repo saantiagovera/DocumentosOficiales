@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo larrata.jpg" width=158 height=218><br>
+  <img src="logo larrata.PNG"><br>
   🐀 Larrata 🐀 <br>
   2020<br><br>
 
@@ -216,7 +216,7 @@ Pertenecer al Grupo Larrata implica que el agente en cuestión acepta y respetar
 </p>
 <table>
   <tr>
-    <td><img src="FirmaRabahia.png" width=176 height=90>
+    <td><img src="FirmaRabahia.jpeg" width=176 height=90>
     <td><img src="firma Albacetti, Matías.png" width=176 height=90>
   </tr>
   <tr>
