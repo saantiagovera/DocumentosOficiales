@@ -216,7 +216,7 @@ Pertenecer al Grupo Larrata implica que el agente en cuestión acepta y respetar
 </p>
 <table>
   <tr>
-    <td><img src="FirmaRabahia.jpeg" width=176 height=90>
+    <td><img src="firmaRabahia.jpeg" width=176 height=90>
     <td><img src="firma Albacetti, Matías.png" width=176 height=90>
   </tr>
   <tr>
