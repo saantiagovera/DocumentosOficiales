@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo larrata.PNG" width=250 height=137><br>
+  <img src="logomym2.PNG" width=250 height=137><br>
   🐀 Larrata 🐀 <br>
   2020<br><br>
 
