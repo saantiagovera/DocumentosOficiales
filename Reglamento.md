@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo larrata.PNG"><br>
+  <img src="logo larrata.PNG" width=250 height=137><br>
   🐀 Larrata 🐀 <br>
   2020<br><br>
 
@@ -9,7 +9,7 @@
 </p>
 <br>
 <p align="justify">
-En la Ciudad Autónoma de Buenos Aires, al Tercer día del mes de Agosto del año 2020, la Administración MyM -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 -de ahora en adelante "El grupo"-.
+En la Ciudad Autónoma de Buenos Aires, al tercer día del mes de agosto del año 2020, la Administración M&M -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 -de ahora en adelante "El grupo"-.
 
 ## Reglas
 
@@ -105,10 +105,13 @@ A continuación, se detallan las fechas de cumpleaños de los agentes a modo de 
 <li>12 Octubre - Méndez, Gonzalo Manuel
 </ul>
 
-## ANEXO 2º - Integrantes de La Administración y colaboradores
+## ANEXO 2º - Administración actual, vigencia y próximas elecciones
 
 <p align="justify">
-Designese como administradores de "El Grupo" a los Sres. Rabahia, Sergio Mathias - DNI 40136101 y Albacetti Mandrillo, Matias Nicolás - DNI 40129244.<br>
+Designese como administradores de "El Grupo" a los agentes Rabahia, Sergio Mathias, de documento nacional de identidad 40136101 y Albacetti Mandrillo, Matias Nicolás de documento nacional de identidad 40129244.<br>
+<b>Vigencia</b>: el mandato de esta administración finaliza el 1 de febrero del año 2021 a las 23:59 horas.<br>
+<b>Próximas elecciones</b>: se llevarán a cabo el sábado 30 de enero del año 2021.
+
 
 ## ANEXO 3º - Sobrenombres de los agentes
 
@@ -206,7 +209,22 @@ La Administración, con el fin de premiar el comportamiento ejemplar y castigar 
   ## ANEXO 8° - Primero, la democracia
 
 <p align="justify">
-Los mandatos de los administradores tienen una duración de 6 meses, con posibilidad de reelección por otro periodo solamente. Adicionalmente, en caso de que la democracia peligre o que los administradores no cumplan con sus funciones, los agentes (siempre y cuando tengan más del 50% de los votos) podrán convocar a elecciones, las cuales se deberán realizar en un plazo no mayor a 1 mes luego de la solicitud. La fórmula ganadora, se encargará del grupo hasta cumplir el plazo que dejo vacante la administración anterior.
+Los mandatos de los administradores tienen una duración de 6 meses, con posibilidad de reelección (individual) por otro periodo solamente. Adicionalmente, en caso de que la democracia peligre o que los administradores no cumplan con sus funciones, los agentes (siempre y cuando tengan más del 50% de los votos) podrán convocar a elecciones, las cuales se deberán realizar en un plazo no mayor a 1 mes luego de la solicitud. La fórmula ganadora se encargará del grupo hasta cumplir el plazo que dejo vacante la administración anterior.
+
+#### Organización de las elecciones
+
+<ul>
+  <li><p align="justify">Es responsabilidad de la administración del grupo la organización de las elecciones en tiempo y forma. 
+  <li><p align="justify">Las elecciones se deben llevar a cabo el último sábado del mandato de la administración saliente.
+  <li><p align="justify">Se debe elegir una plataforma de votación que garantice el secreto del voto y que permita, de alguna manera, que los agentes comprueben que votaron.
+  <li><p align="justify">El traspaso de los privilegios administrativos debe ser efectuado a las 00:00 horas del primer día del mandato de la administración electa.
+  <li><p align="justify">Tras asumir el mando, la administración electa dispone de 7 (siete) días para actualizar este documento, incluyendo en la actualización la fecha de las siguientes elecciones y la fecha de fin del mandato.
+</ul>
+
+#### El voto es secreto y obligatorio
+
+<p align="justify">
+Los agentes están obligados a emitir su voto y a mantener el mismo en secreto, al menos hasta que hayan sido exhibidos los resultados de la votación. La violación de cualquiera de estas reglas es considerada una falta grave y será penalizada con una sanción de 14 (catorce) días.
 
 ## Vigencia y firma
 
@@ -214,6 +232,7 @@ Los mandatos de los administradores tienen una duración de 6 meses, con posibil
 Este reglamento tendrá efecto una vez publicado. Es responsabilidad de cada agente la lectura del mismo y estar al tanto de cada nueva regla. Las penalizaciones no poseen lugar al reclamo. La Administración no se responsabiliza por las salidas perdidas por los agentes durante sus eventuales períodos de penalización.<br>
 Pertenecer al Grupo Larrata implica que el agente en cuestión acepta y respetará de buena fe las reglas y consideraciones enunciadas en este documento.
 </p>
+
 <table>
   <tr>
     <td><img src="firmaRabahia.jpeg" width=176 height=90>
