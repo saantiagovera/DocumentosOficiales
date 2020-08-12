@@ -80,6 +80,9 @@ En la Ciudad Autónoma de Buenos Aires, al tercer día del mes de agosto del añ
   <li><p align="justify">
     Los agentes poseen inmunidad en el día de su cumpleaños, además de que serán saludados afectuosamente por los administradores.
   </li>
+  <li><p align="justify">
+    El <b>Artículo 2</b> no será aplicado en aquellos casos en que el sujeto censurado aparezca en un contenido multimedia sin ser protagonista principal del mismo. En caso de existir discrepancias sobre si el sujeto tiene o no protagonismo principal en el contenido compartido, La Administración aplicará el criterio que considere oportuno.
+  </li>
 </ol>
 
 
