@@ -1,6 +1,6 @@
 ## Comunicado 11/2020
 
-La administración M&M felicita al Agte. Cuomo, Daniel Hernan por su cumpleaños.
+La Administración M&M felicita al Agte. Cuomo, Daniel Hernán por su cumpleaños.
 
 Saludos cordiales
 
