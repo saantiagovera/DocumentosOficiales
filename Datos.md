@@ -105,9 +105,9 @@
                 <td>12/08</td><!--fecha-->
                 <td>matiasnot18@gmail.com</td><!--mail-->
                 <td>Noti, Tego</td><!--sobreNombre-->
-                <td>Matias-Notario</td><!--alias-->
+                <td>Mmn.notario.ars</td><!--alias-->
                 <td>-</td><!--todopago-->
-                <td>0070999030004124731120</td><!--CBU-->
+                <td>4150999718002865320027</td><!--CBU-->
             </tr>
             <tr>
                 <td>39.655.771</td><!--DNI-->
