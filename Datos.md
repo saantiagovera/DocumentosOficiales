@@ -105,7 +105,7 @@
                 <td>12/08</td><!--fecha-->
                 <td>matiasnot18@gmail.com</td><!--mail-->
                 <td>Noti, Tego</td><!--sobreNombre-->
-                <td>Mmn.notario.ars</td><!--alias-->
+                <td>mn.notario.ars</td><!--alias-->
                 <td>-</td><!--todopago-->
                 <td>4150999718002865320027</td><!--CBU-->
             </tr>
