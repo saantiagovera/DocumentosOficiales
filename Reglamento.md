@@ -1,7 +1,7 @@
 <p align="center">
   <img src="logomym2.PNG" width=250 height=200><br>
   🐀 Larrata 🐀 <br>
-  2020<br><br>
+  2021<br><br>
 
   <b>
   Reglamento y Normas de Convivencia<br>
@@ -9,7 +9,7 @@
 </p>
 <br>
 <p align="justify">
-En la Ciudad Autónoma de Buenos Aires, al tercer día del mes de agosto del año 2020, la Administración M&M -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 -de ahora en adelante "El grupo"-.
+En la Ciudad Autónoma de Buenos Aires, al segundo día del mes de febrero del año 2021, la Administración M&S -de ahora en adelante “La Administración”- se reúne de forma extraordinaria y publica esta versión actualizada del reglamento aplicable al grupo de WhatsApp Larrata 🐀 -de ahora en adelante "El grupo"-.
 
 ## Reglas
 
