@@ -1,7 +1,7 @@
 <p align="center">
   <img src="logomym2.PNG" width=250 height=200><br>
   🐀 Larrata 🐀 <br>
-  2020<br><br>
+  2021<br><br>
 
   <b>
   Reglamento y Normas de Convivencia<br>
